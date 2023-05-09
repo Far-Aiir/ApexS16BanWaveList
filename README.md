@@ -6,6 +6,6 @@
 
 # Data/Percentage of banned users.
 
-PC/Origin: 148/2100 (7.05%)
-Xbox: 569/2100 (27%)
+PC/Origin: 148/2100 (7.05%)\
+Xbox: 569/2100 (27%)\
 PSN: 798/2100 (38%)
