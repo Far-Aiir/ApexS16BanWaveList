@@ -1,0 +1,2100 @@
+Name: cgk9 RP: 56257 Rank: 1 Console: xbl Banned: false
+Name: koymetsu RP: 52329 Rank: 2 Console: xbl Banned: false
+Name: johwny RP: 48776 Rank: 3 Console: xbl Banned: false
+Name: agl wolvez RP: 43647 Rank: 4 Console: xbl Banned: false
+Name: naff. RP: 42283 Rank: 5 Console: xbl Banned: false
+Name: knonwn RP: 40680 Rank: 6 Console: xbl Banned: true
+Name: forget dat RP: 40566 Rank: 7 Console: xbl Banned: false
+Name: uzii RP: 40061 Rank: 8 Console: xbl Banned: false
+Name: need a soda RP: 38349 Rank: 9 Console: xbl Banned: false
+Name: darkiightt RP: 38250 Rank: 10 Console: xbl Banned: false
+Name: aeriu RP: 35373 Rank: 11 Console: xbl Banned: false
+Name: diaz3718 RP: 35259 Rank: 12 Console: xbl Banned: false
+Name: lxlu ray RP: 35064 Rank: 13 Console: xbl Banned: false
+Name: sleepyshady RP: 34851 Rank: 14 Console: xbl Banned: false
+Name: i xb0t i RP: 34844 Rank: 15 Console: xbl Banned: false
+Name: xnightendx RP: 34223 Rank: 16 Console: xbl Banned: false
+Name: evilknighttv RP: 34047 Rank: 17 Console: xbl Banned: false
+Name: kajak smack RP: 33726 Rank: 18 Console: xbl Banned: false
+Name: loobidup RP: 33136 Rank: 19 Console: xbl Banned: false
+Name: makima shuyo RP: 32935 Rank: 20 Console: xbl Banned: false
+Name: charless1x RP: 32593 Rank: 21 Console: xbl Banned: false
+Name: ccbbie RP: 32538 Rank: 22 Console: xbl Banned: false
+Name: i iove rp RP: 32465 Rank: 23 Console: xbl Banned: true
+Name: jrysa RP: 32361 Rank: 24 Console: xbl Banned: false
+Name: mr papa perc RP: 32256 Rank: 25 Console: xbl Banned: false
+Name: imreallylow RP: 32226 Rank: 26 Console: xbl Banned: false
+Name: saopaulopred RP: 32171 Rank: 27 Console: xbl Banned: false
+Name: vbuliio RP: 32067 Rank: 28 Console: xbl Banned: false
+Name: pugsleycd RP: 31737 Rank: 29 Console: xbl Banned: false
+Name: rimzeh RP: 31705 Rank: 30 Console: xbl Banned: false
+Name: beatlezero RP: 31689 Rank: 31 Console: xbl Banned: false
+Name: gruhvi RP: 31573 Rank: 32 Console: xbl Banned: false
+Name: emoney7273 RP: 31552 Rank: 33 Console: xbl Banned: true
+Name: thacircleoflife RP: 31227 Rank: 34 Console: xbl Banned: false
+Name: alt aspect5228 RP: 30822 Rank: 35 Console: xbl Banned: true
+Name: tooshes RP: 30767 Rank: 36 Console: xbl Banned: false
+Name: mizuxa RP: 30736 Rank: 37 Console: xbl Banned: false
+Name: xxpaprika85xx RP: 30734 Rank: 38 Console: xbl Banned: false
+Name: its brainsy RP: 30655 Rank: 39 Console: xbl Banned: false
+Name: smokysmooked RP: 30654 Rank: 40 Console: xbl Banned: true
+Name: wvllis RP: 30541 Rank: 41 Console: xbl Banned: false
+Name: aspectwydd RP: 30484 Rank: 42 Console: xbl Banned: false
+Name: kxrqc RP: 30453 Rank: 43 Console: xbl Banned: false
+Name: giemon RP: 30024 Rank: 44 Console: xbl Banned: false
+Name: thegreataugbar RP: 29720 Rank: 45 Console: xbl Banned: false
+Name: sensy21tv RP: 29617 Rank: 46 Console: xbl Banned: false
+Name: gr00vy thug RP: 29557 Rank: 47 Console: xbl Banned: false
+Name: mayhem72k RP: 29531 Rank: 48 Console: xbl Banned: false
+Name: typhxxnn RP: 29264 Rank: 49 Console: xbl Banned: false
+Name: grimmzyz RP: 29248 Rank: 50 Console: xbl Banned: false
+Name: typlcalsweat RP: 29233 Rank: 51 Console: xbl Banned: false
+Name: yintz RP: 29216 Rank: 52 Console: xbl Banned: false
+Name: li bear ll RP: 29176 Rank: 53 Console: xbl Banned: true
+Name: cracked bang RP: 29165 Rank: 54 Console: xbl Banned: false
+Name: alphajohnnn RP: 29000 Rank: 55 Console: xbl Banned: false
+Name: jw4455 RP: 28966 Rank: 56 Console: xbl Banned: true
+Name: snrpe RP: 28948 Rank: 57 Console: xbl Banned: false
+Name: raops RP: 28847 Rank: 58 Console: xbl Banned: false
+Name: akihiko 1st RP: 28797 Rank: 59 Console: xbl Banned: true
+Name: sekolu RP: 28752 Rank: 60 Console: xbl Banned: false
+Name: wunv4 RP: 28691 Rank: 61 Console: xbl Banned: false
+Name: il breezyyy RP: 28537 Rank: 62 Console: xbl Banned: false
+Name: kopachy RP: 28496 Rank: 63 Console: xbl Banned: false
+Name: k2x225 RP: 28385 Rank: 64 Console: xbl Banned: false
+Name: vertifiable RP: 28185 Rank: 65 Console: xbl Banned: false
+Name: javigel RP: 28183 Rank: 66 Console: xbl Banned: false
+Name: xobunnylulutv RP: 28084 Rank: 67 Console: xbl Banned: false
+Name: blokbackwood RP: 28084 Rank: 67 Console: xbl Banned: true
+Name: dr risto RP: 28040 Rank: 69 Console: xbl Banned: false
+Name: suxeed RP: 27986 Rank: 70 Console: xbl Banned: false
+Name: nicksxn RP: 27939 Rank: 71 Console: xbl Banned: false
+Name: habibi ricki RP: 27914 Rank: 72 Console: xbl Banned: false
+Name: kioyl RP: 27908 Rank: 73 Console: xbl Banned: false
+Name: nstrafing RP: 27879 Rank: 74 Console: xbl Banned: false
+Name: derelictionn RP: 27833 Rank: 75 Console: xbl Banned: false
+Name: budgiewithagun RP: 27801 Rank: 76 Console: xbl Banned: false
+Name: onixoce RP: 27785 Rank: 77 Console: xbl Banned: false
+Name: oxygnz RP: 27782 Rank: 78 Console: xbl Banned: false
+Name: i deathiy l RP: 27701 Rank: 79 Console: xbl Banned: false
+Name: i am joeson RP: 27383 Rank: 80 Console: xbl Banned: false
+Name: rsanityy RP: 27381 Rank: 81 Console: xbl Banned: false
+Name: ozaki RP: 27304 Rank: 82 Console: xbl Banned: false
+Name: a far nebula RP: 27291 Rank: 83 Console: xbl Banned: false
+Name: xbloodhoundx767 RP: 27119 Rank: 84 Console: xbl Banned: true
+Name: ohsuede RP: 27094 Rank: 85 Console: xbl Banned: false
+Name: durlthemediocre RP: 27076 Rank: 86 Console: xbl Banned: false
+Name: verbable RP: 27071 Rank: 87 Console: xbl Banned: false
+Name: xhellcharlyx RP: 27006 Rank: 88 Console: xbl Banned: true
+Name: zardo blick RP: 26911 Rank: 89 Console: xbl Banned: true
+Name: insuqo RP: 26864 Rank: 90 Console: xbl Banned: false
+Name: tweetabtme RP: 26862 Rank: 91 Console: xbl Banned: false
+Name: vyp RP: 26830 Rank: 92 Console: xbl Banned: false
+Name: nqrks on tiktok RP: 26793 Rank: 93 Console: xbl Banned: false
+Name: qinksy RP: 26792 Rank: 94 Console: xbl Banned: false
+Name: bocek bow RP: 26743 Rank: 95 Console: xbl Banned: false
+Name: ilikecandyftw RP: 26688 Rank: 96 Console: xbl Banned: false
+Name: agile btrxs RP: 26682 Rank: 97 Console: xbl Banned: true
+Name: lukersons RP: 26578 Rank: 98 Console: xbl Banned: true
+Name: noob keane RP: 26534 Rank: 99 Console: xbl Banned: false
+Name: nick da pwnzor RP: 26525 Rank: 100 Console: xbl Banned: true
+Name: kxng gnasty RP: 26495 Rank: 101 Console: xbl Banned: false
+Name: rsellerdeath RP: 26424 Rank: 102 Console: xbl Banned: false
+Name: spiral kyro RP: 26405 Rank: 103 Console: xbl Banned: false
+Name: cwcspicysauce RP: 26346 Rank: 104 Console: xbl Banned: false
+Name: left4 bows RP: 26335 Rank: 105 Console: xbl Banned: false
+Name: costco bosko RP: 26329 Rank: 106 Console: xbl Banned: true
+Name: sqewzz RP: 26303 Rank: 107 Console: xbl Banned: false
+Name: ttv eby253 RP: 26274 Rank: 108 Console: xbl Banned: false
+Name: needkp9542 RP: 26252 Rank: 109 Console: xbl Banned: true
+Name: iaixcy RP: 26206 Rank: 110 Console: xbl Banned: true
+Name: kishe RP: 26205 Rank: 111 Console: xbl Banned: true
+Name: joel on ket RP: 26203 Rank: 112 Console: xbl Banned: false
+Name: nvyuz 0ff RP: 26171 Rank: 113 Console: xbl Banned: false
+Name: delta tears RP: 26154 Rank: 114 Console: xbl Banned: false
+Name: vimsanity RP: 26147 Rank: 115 Console: xbl Banned: true
+Name: hoppyharper7 RP: 26085 Rank: 116 Console: xbl Banned: false
+Name: eby253 RP: 26075 Rank: 117 Console: xbl Banned: false
+Name: mr grappie RP: 25965 Rank: 118 Console: xbl Banned: false
+Name: i 0nixy RP: 25958 Rank: 119 Console: xbl Banned: true
+Name: ttvcloud54 RP: 25905 Rank: 120 Console: xbl Banned: false
+Name: uniiiy RP: 25897 Rank: 121 Console: xbl Banned: false
+Name: o strafing RP: 25871 Rank: 122 Console: xbl Banned: false
+Name: a1u RP: 25766 Rank: 123 Console: xbl Banned: false
+Name: partydoor64 RP: 25764 Rank: 124 Console: xbl Banned: false
+Name: ghostlys mid RP: 25665 Rank: 125 Console: xbl Banned: false
+Name: verlation RP: 25657 Rank: 126 Console: xbl Banned: true
+Name: not invisibie RP: 25634 Rank: 127 Console: xbl Banned: false
+Name: yeil RP: 25468 Rank: 128 Console: xbl Banned: false
+Name: soldcapaiot RP: 25456 Rank: 129 Console: xbl Banned: true
+Name: evazne RP: 25434 Rank: 130 Console: xbl Banned: true
+Name: ded zebra RP: 25430 Rank: 131 Console: xbl Banned: false
+Name: eynez RP: 25383 Rank: 132 Console: xbl Banned: false
+Name: itszsafa RP: 25377 Rank: 133 Console: xbl Banned: true
+Name: landxntv RP: 25323 Rank: 134 Console: xbl Banned: false
+Name: big time tug RP: 25296 Rank: 135 Console: xbl Banned: false
+Name: ezdill2225 RP: 25280 Rank: 136 Console: xbl Banned: true
+Name: twitchmatbtw RP: 25277 Rank: 137 Console: xbl Banned: true
+Name: mrvn mk lll RP: 25250 Rank: 138 Console: xbl Banned: true
+Name: koo inuke RP: 25238 Rank: 139 Console: xbl Banned: false
+Name: xsoemz RP: 25109 Rank: 140 Console: xbl Banned: true
+Name: oyzic RP: 25094 Rank: 141 Console: xbl Banned: true
+Name: br7xk RP: 25051 Rank: 142 Console: xbl Banned: true
+Name: biested RP: 25009 Rank: 143 Console: xbl Banned: true
+Name: petit x ours RP: 24992 Rank: 144 Console: xbl Banned: true
+Name: ttvtisbrando RP: 24975 Rank: 145 Console: xbl Banned: false
+Name: thepauloking RP: 24961 Rank: 146 Console: xbl Banned: false
+Name: player33474 RP: 24949 Rank: 147 Console: xbl Banned: false
+Name: blakksun7745 RP: 24915 Rank: 148 Console: xbl Banned: false
+Name: joelwitapole RP: 24880 Rank: 149 Console: xbl Banned: false
+Name: moveddegree RP: 24803 Rank: 150 Console: xbl Banned: false
+Name: koyzul RP: 24800 Rank: 151 Console: xbl Banned: false
+Name: knowingsword998 RP: 24757 Rank: 152 Console: xbl Banned: false
+Name: its croos RP: 24748 Rank: 153 Console: xbl Banned: true
+Name: ddyashley RP: 24745 Rank: 154 Console: xbl Banned: false
+Name: ciampur RP: 24672 Rank: 155 Console: xbl Banned: false
+Name: onlynixon RP: 24661 Rank: 156 Console: xbl Banned: false
+Name: hated wock RP: 24659 Rank: 157 Console: xbl Banned: false
+Name: hdless RP: 24643 Rank: 158 Console: xbl Banned: true
+Name: getclapped8o11 RP: 24592 Rank: 159 Console: xbl Banned: false
+Name: itzzxrro RP: 24567 Rank: 160 Console: xbl Banned: false
+Name: bs campy RP: 24544 Rank: 161 Console: xbl Banned: false
+Name: shuxeed RP: 24535 Rank: 162 Console: xbl Banned: false
+Name: feym RP: 24512 Rank: 163 Console: xbl Banned: true
+Name: canadianrib RP: 24491 Rank: 164 Console: xbl Banned: false
+Name: wxst guard RP: 24480 Rank: 165 Console: xbl Banned: true
+Name: bristino RP: 24461 Rank: 166 Console: xbl Banned: false
+Name: hahimsneaky RP: 24421 Rank: 167 Console: xbl Banned: true
+Name: kwqrr RP: 24416 Rank: 168 Console: xbl Banned: false
+Name: iliildlillil RP: 24413 Rank: 169 Console: xbl Banned: true
+Name: tonesturr RP: 24410 Rank: 170 Console: xbl Banned: false
+Name: kaname 9 RP: 24382 Rank: 171 Console: xbl Banned: false
+Name: xab be tearz RP: 24352 Rank: 172 Console: xbl Banned: false
+Name: v ii c ii 0 u z RP: 24343 Rank: 173 Console: xbl Banned: true
+Name: flickerinq RP: 24341 Rank: 174 Console: xbl Banned: false
+Name: koddaduck RP: 24320 Rank: 175 Console: xbl Banned: true
+Name: legacy RP: 24302 Rank: 176 Console: xbl Banned: false
+Name: tight RP: 24290 Rank: 177 Console: xbl Banned: false
+Name: guundam RP: 24240 Rank: 178 Console: xbl Banned: true
+Name: trf asmodeus RP: 24239 Rank: 179 Console: xbl Banned: true
+Name: novadreamstv RP: 24226 Rank: 180 Console: xbl Banned: false
+Name: elmos goldfish5 RP: 24218 Rank: 181 Console: xbl Banned: true
+Name: oschlepp RP: 24209 Rank: 182 Console: xbl Banned: false
+Name: maoci RP: 24197 Rank: 183 Console: xbl Banned: true
+Name: o d3m0llidor RP: 24195 Rank: 184 Console: xbl Banned: true
+Name: hulyhan5518 RP: 24177 Rank: 185 Console: xbl Banned: true
+Name: itzwhistle RP: 24163 Rank: 186 Console: xbl Banned: false
+Name: nfz demon x RP: 24147 Rank: 187 Console: xbl Banned: false
+Name: ob glockz RP: 24147 Rank: 187 Console: xbl Banned: false
+Name: xflighttv RP: 24118 Rank: 189 Console: xbl Banned: false
+Name: mhmzr RP: 24113 Rank: 190 Console: xbl Banned: false
+Name: jyro aviik RP: 24110 Rank: 191 Console: xbl Banned: true
+Name: oghostlyyt RP: 24107 Rank: 192 Console: xbl Banned: false
+Name: blitzonsticks RP: 24104 Rank: 193 Console: xbl Banned: false
+Name: mlg peanut10 RP: 24078 Rank: 194 Console: xbl Banned: false
+Name: wooodslol RP: 24070 Rank: 195 Console: xbl Banned: false
+Name: masterx0fxwarjr RP: 24028 Rank: 196 Console: xbl Banned: true
+Name: zlkonsistncy RP: 24021 Rank: 197 Console: xbl Banned: false
+Name: rcronusk RP: 24007 Rank: 198 Console: xbl Banned: true
+Name: itzzjoji RP: 24005 Rank: 199 Console: xbl Banned: false
+Name: cpi r4mb0 ll RP: 23969 Rank: 200 Console: xbl Banned: true
+Name: ecs skiizo RP: 23951 Rank: 201 Console: xbl Banned: false
+Name: blueb3njis RP: 23924 Rank: 202 Console: xbl Banned: false
+Name: qhola RP: 23912 Rank: 203 Console: xbl Banned: false
+Name: dz9q RP: 23906 Rank: 204 Console: xbl Banned: true
+Name: zcronin RP: 23867 Rank: 205 Console: xbl Banned: true
+Name: llisasukeiil RP: 23853 Rank: 206 Console: xbl Banned: true
+Name: tizdickie RP: 23823 Rank: 207 Console: xbl Banned: false
+Name: deop1x RP: 23818 Rank: 208 Console: xbl Banned: false
+Name: syyloz RP: 23803 Rank: 209 Console: xbl Banned: false
+Name: peurwi9049 RP: 23797 Rank: 210 Console: xbl Banned: false
+Name: xmyduffy RP: 23793 Rank: 211 Console: xbl Banned: false
+Name: yukl aim RP: 23763 Rank: 212 Console: xbl Banned: false
+Name: residdent RP: 23761 Rank: 213 Console: xbl Banned: false
+Name: uni story RP: 23760 Rank: 214 Console: xbl Banned: true
+Name: ttk loyal RP: 23757 Rank: 215 Console: xbl Banned: false
+Name: cookeduuuuu RP: 23756 Rank: 216 Console: xbl Banned: true
+Name: saamgg RP: 23737 Rank: 217 Console: xbl Banned: false
+Name: tootflek RP: 23727 Rank: 218 Console: xbl Banned: false
+Name: li twivax il RP: 23708 Rank: 219 Console: xbl Banned: false
+Name: melvanon RP: 23707 Rank: 220 Console: xbl Banned: false
+Name: bs foouden RP: 23707 Rank: 220 Console: xbl Banned: false
+Name: erahce RP: 23702 Rank: 222 Console: xbl Banned: true
+Name: osp subtotal RP: 23701 Rank: 223 Console: xbl Banned: true
+Name: leek breeshy RP: 23697 Rank: 224 Console: xbl Banned: true
+Name: wifeline RP: 23684 Rank: 225 Console: xbl Banned: false
+Name: colejarret6 RP: 23668 Rank: 226 Console: xbl Banned: true
+Name: l cryp i RP: 23663 Rank: 227 Console: xbl Banned: false
+Name: twitch ugoki RP: 23654 Rank: 228 Console: xbl Banned: false
+Name: remescent RP: 23610 Rank: 229 Console: xbl Banned: false
+Name: hasooba RP: 23596 Rank: 230 Console: xbl Banned: false
+Name: ragee nx RP: 23587 Rank: 231 Console: xbl Banned: true
+Name: kunziez RP: 23569 Rank: 232 Console: xbl Banned: true
+Name: xshikariox RP: 23566 Rank: 233 Console: xbl Banned: false
+Name: flazw RP: 23554 Rank: 234 Console: xbl Banned: true
+Name: puerpy RP: 23548 Rank: 235 Console: xbl Banned: true
+Name: thegreekfreak91 RP: 23527 Rank: 236 Console: xbl Banned: false
+Name: cartetoaster786 RP: 23510 Rank: 237 Console: xbl Banned: true
+Name: preda RP: 23501 Rank: 238 Console: xbl Banned: true
+Name: xahfo RP: 23485 Rank: 239 Console: xbl Banned: false
+Name: lgdiegoo RP: 23482 Rank: 240 Console: xbl Banned: true
+Name: qtozai RP: 23469 Rank: 241 Console: xbl Banned: true
+Name: yuriluvsyou RP: 23467 Rank: 242 Console: xbl Banned: false
+Name: evoja RP: 23466 Rank: 243 Console: xbl Banned: false
+Name: ibeamzttv RP: 23452 Rank: 244 Console: xbl Banned: true
+Name: ax neyzz RP: 23450 Rank: 245 Console: xbl Banned: true
+Name: zaafkieel RP: 23440 Rank: 246 Console: xbl Banned: false
+Name: smurfbeamers RP: 23417 Rank: 247 Console: xbl Banned: false
+Name: vslage RP: 23417 Rank: 247 Console: xbl Banned: true
+Name: ryanbaz19 RP: 23412 Rank: 249 Console: xbl Banned: true
+Name: juiiantpp RP: 23401 Rank: 250 Console: xbl Banned: true
+Name: samzeer6735 RP: 23367 Rank: 251 Console: xbl Banned: true
+Name: gisny RP: 23361 Rank: 252 Console: xbl Banned: false
+Name: dlpiex RP: 23348 Rank: 253 Console: xbl Banned: false
+Name: nethernal RP: 23345 Rank: 254 Console: xbl Banned: true
+Name: xkevsterr RP: 23336 Rank: 255 Console: xbl Banned: true
+Name: cptjib RP: 23333 Rank: 256 Console: xbl Banned: false
+Name: qsuan RP: 23332 Rank: 257 Console: xbl Banned: true
+Name: xaiyr RP: 23328 Rank: 258 Console: xbl Banned: false
+Name: mean sloth RP: 23321 Rank: 259 Console: xbl Banned: false
+Name: to raw to scope RP: 23308 Rank: 260 Console: xbl Banned: false
+Name: melhorladrao RP: 23302 Rank: 261 Console: xbl Banned: false
+Name: nroji RP: 23301 Rank: 262 Console: xbl Banned: true
+Name: mariguapito RP: 23295 Rank: 263 Console: xbl Banned: false
+Name: entxz 700 RP: 23269 Rank: 264 Console: xbl Banned: true
+Name: diluhted RP: 23267 Rank: 265 Console: xbl Banned: true
+Name: evo guerrier RP: 23265 Rank: 266 Console: xbl Banned: true
+Name: inosian RP: 23261 Rank: 267 Console: xbl Banned: false
+Name: please plead RP: 23250 Rank: 268 Console: xbl Banned: false
+Name: riyukazen RP: 23246 Rank: 269 Console: xbl Banned: true
+Name: myedas RP: 23243 Rank: 270 Console: xbl Banned: false
+Name: xikyoko RP: 23238 Rank: 271 Console: xbl Banned: false
+Name: swarmsey RP: 23233 Rank: 272 Console: xbl Banned: false
+Name: yactivee RP: 23210 Rank: 273 Console: xbl Banned: false
+Name: riotdill tv RP: 23207 Rank: 274 Console: xbl Banned: false
+Name: fertita RP: 23205 Rank: 275 Console: xbl Banned: false
+Name: ii html ii RP: 23205 Rank: 275 Console: xbl Banned: true
+Name: iougeek RP: 23204 Rank: 277 Console: xbl Banned: false
+Name: zenqr1 RP: 23201 Rank: 278 Console: xbl Banned: true
+Name: flvnny RP: 23191 Rank: 279 Console: xbl Banned: false
+Name: infecticc RP: 23182 Rank: 280 Console: xbl Banned: false
+Name: swifty120fps RP: 23181 Rank: 281 Console: xbl Banned: false
+Name: mclarkeee RP: 23178 Rank: 282 Console: xbl Banned: false
+Name: o xootic o RP: 23177 Rank: 283 Console: xbl Banned: true
+Name: z2 dvydx RP: 23164 Rank: 284 Console: xbl Banned: true
+Name: oneclipu RP: 23145 Rank: 285 Console: xbl Banned: true
+Name: clowsyy RP: 23143 Rank: 286 Console: xbl Banned: false
+Name: medicbyheart RP: 23140 Rank: 287 Console: xbl Banned: false
+Name: sshaix RP: 23139 Rank: 288 Console: xbl Banned: true
+Name: biancaneva3868 RP: 23137 Rank: 289 Console: xbl Banned: false
+Name: entity racer RP: 23134 Rank: 290 Console: xbl Banned: false
+Name: vaiensy RP: 23129 Rank: 291 Console: xbl Banned: true
+Name: llkilroyll RP: 23099 Rank: 292 Console: xbl Banned: false
+Name: thy kaotic RP: 23098 Rank: 293 Console: xbl Banned: false
+Name: ryhuri RP: 23095 Rank: 294 Console: xbl Banned: true
+Name: twiinty lgds RP: 23094 Rank: 295 Console: xbl Banned: false
+Name: tkxu RP: 23084 Rank: 296 Console: xbl Banned: true
+Name: gamblinrp RP: 23080 Rank: 297 Console: xbl Banned: true
+Name: isakur j RP: 23077 Rank: 298 Console: xbl Banned: true
+Name: hxrvicey RP: 23072 Rank: 299 Console: xbl Banned: false
+Name: coachanju tv RP: 23062 Rank: 300 Console: xbl Banned: false
+Name: godiynerd RP: 23059 Rank: 301 Console: xbl Banned: true
+Name: disgust RP: 23048 Rank: 302 Console: xbl Banned: false
+Name: kurrupted x RP: 23047 Rank: 303 Console: xbl Banned: false
+Name: his0kaaa vi RP: 23024 Rank: 304 Console: xbl Banned: true
+Name: bang my r9 RP: 23020 Rank: 305 Console: xbl Banned: false
+Name: itz ludwick RP: 23011 Rank: 306 Console: xbl Banned: true
+Name: reiayanamieva01 RP: 23010 Rank: 307 Console: xbl Banned: false
+Name: zoniiii cod RP: 23004 Rank: 308 Console: xbl Banned: true
+Name: tentacoul RP: 23004 Rank: 308 Console: xbl Banned: true
+Name: djkiq RP: 23003 Rank: 310 Console: xbl Banned: false
+Name: mario doge RP: 22979 Rank: 311 Console: xbl Banned: true
+Name: officialcomplex RP: 22976 Rank: 312 Console: xbl Banned: false
+Name: z2 eve RP: 22976 Rank: 312 Console: xbl Banned: true
+Name: loldakotaa RP: 22966 Rank: 314 Console: xbl Banned: false
+Name: pennyandbart RP: 22963 Rank: 315 Console: xbl Banned: true
+Name: smazmoz RP: 22960 Rank: 316 Console: xbl Banned: true
+Name: txrpss RP: 22952 Rank: 317 Console: xbl Banned: false
+Name: meg xv RP: 22951 Rank: 318 Console: xbl Banned: false
+Name: skywrker RP: 22950 Rank: 319 Console: xbl Banned: true
+Name: vitaishot RP: 22946 Rank: 320 Console: xbl Banned: true
+Name: q akum4 p RP: 22934 Rank: 321 Console: xbl Banned: true
+Name: pnasy RP: 22927 Rank: 322 Console: xbl Banned: true
+Name: retrxctionz RP: 22924 Rank: 323 Console: xbl Banned: false
+Name: astroverrt RP: 22923 Rank: 324 Console: xbl Banned: false
+Name: at zkunss RP: 22923 Rank: 324 Console: xbl Banned: true
+Name: luvzays RP: 22914 Rank: 326 Console: xbl Banned: true
+Name: pluqable RP: 22910 Rank: 327 Console: xbl Banned: true
+Name: whylechocolale RP: 22907 Rank: 328 Console: xbl Banned: false
+Name: vanecio RP: 22905 Rank: 329 Console: xbl Banned: true
+Name: roniiiii cod RP: 22886 Rank: 330 Console: xbl Banned: false
+Name: twitch shak9581 RP: 22881 Rank: 331 Console: xbl Banned: true
+Name: morvls RP: 22875 Rank: 332 Console: xbl Banned: true
+Name: syokuon RP: 22867 Rank: 333 Console: xbl Banned: false
+Name: orbztron RP: 22856 Rank: 334 Console: xbl Banned: false
+Name: skn chencho1 RP: 22850 Rank: 335 Console: xbl Banned: false
+Name: vgups RP: 22845 Rank: 336 Console: xbl Banned: true
+Name: i hatesmoove RP: 22837 Rank: 337 Console: xbl Banned: true
+Name: c blackii RP: 22829 Rank: 338 Console: xbl Banned: false
+Name: securefungus672 RP: 22809 Rank: 339 Console: xbl Banned: false
+Name: qyazid RP: 22801 Rank: 340 Console: xbl Banned: false
+Name: ygioq RP: 22800 Rank: 341 Console: xbl Banned: true
+Name: rgunnn RP: 22793 Rank: 342 Console: xbl Banned: true
+Name: og slapsss RP: 22791 Rank: 343 Console: xbl Banned: true
+Name: klenoa RP: 22791 Rank: 343 Console: xbl Banned: false
+Name: vyzic slam 7 RP: 22787 Rank: 345 Console: xbl Banned: true
+Name: leenins RP: 22770 Rank: 346 Console: xbl Banned: true
+Name: gyrezeppeli RP: 22768 Rank: 347 Console: xbl Banned: true
+Name: lvl4jor RP: 22765 Rank: 348 Console: xbl Banned: true
+Name: wiped RP: 22753 Rank: 349 Console: xbl Banned: false
+Name: xinfamousrulerx RP: 22753 Rank: 349 Console: xbl Banned: false
+Name: gamerninja93 RP: 22752 Rank: 351 Console: xbl Banned: true
+Name: rdhme RP: 22745 Rank: 352 Console: xbl Banned: false
+Name: n8dogx RP: 22736 Rank: 353 Console: xbl Banned: false
+Name: savstin RP: 22733 Rank: 354 Console: xbl Banned: false
+Name: ctg tatahal RP: 22718 Rank: 355 Console: xbl Banned: true
+Name: rgunshot RP: 22713 Rank: 356 Console: xbl Banned: true
+Name: xotriplin RP: 22705 Rank: 357 Console: xbl Banned: false
+Name: twivial RP: 22693 Rank: 358 Console: xbl Banned: false
+Name: unpressing RP: 22692 Rank: 359 Console: xbl Banned: false
+Name: q b a g e l p RP: 22671 Rank: 360 Console: xbl Banned: false
+Name: restelz RP: 22670 Rank: 361 Console: xbl Banned: true
+Name: lankontv RP: 22667 Rank: 362 Console: xbl Banned: false
+Name: itz horzion RP: 22665 Rank: 363 Console: xbl Banned: true
+Name: xxhecxx12 RP: 22662 Rank: 364 Console: xbl Banned: true
+Name: infinity tac0s RP: 22659 Rank: 365 Console: xbl Banned: true
+Name: inpuc RP: 22652 Rank: 366 Console: xbl Banned: true
+Name: tsm kraken5813 RP: 22652 Rank: 366 Console: xbl Banned: false
+Name: featiera RP: 22646 Rank: 368 Console: xbl Banned: false
+Name: ready up bliss RP: 22644 Rank: 369 Console: xbl Banned: false
+Name: npxlish RP: 22629 Rank: 370 Console: xbl Banned: false
+Name: xyarpii RP: 22623 Rank: 371 Console: xbl Banned: true
+Name: piuvy RP: 22607 Rank: 372 Console: xbl Banned: false
+Name: f futu4rr4 RP: 22603 Rank: 373 Console: xbl Banned: true
+Name: gunreex5 RP: 22594 Rank: 374 Console: xbl Banned: true
+Name: mr k1ngslayer RP: 22594 Rank: 374 Console: xbl Banned: true
+Name: asunabc RP: 22583 Rank: 376 Console: xbl Banned: false
+Name: vomur RP: 22581 Rank: 377 Console: xbl Banned: true
+Name: spac RP: 22579 Rank: 378 Console: xbl Banned: false
+Name: xnissh0ku RP: 22571 Rank: 379 Console: xbl Banned: true
+Name: deepnthansum RP: 22556 Rank: 380 Console: xbl Banned: true
+Name: axei dn RP: 22553 Rank: 381 Console: xbl Banned: false
+Name: nromy RP: 22550 Rank: 382 Console: xbl Banned: false
+Name: f5zg RP: 22548 Rank: 383 Console: xbl Banned: true
+Name: danky kang 21 RP: 22546 Rank: 384 Console: xbl Banned: false
+Name: xflora winx RP: 22542 Rank: 385 Console: xbl Banned: false
+Name: ilverxzaili RP: 22540 Rank: 386 Console: xbl Banned: true
+Name: vwysz RP: 22534 Rank: 387 Console: xbl Banned: false
+Name: jedii ashoka RP: 22521 Rank: 388 Console: xbl Banned: true
+Name: rccqs RP: 22516 Rank: 389 Console: xbl Banned: false
+Name: josukesss RP: 22505 Rank: 390 Console: xbl Banned: true
+Name: martsmidz RP: 22505 Rank: 390 Console: xbl Banned: false
+Name: nahsher RP: 22504 Rank: 392 Console: xbl Banned: false
+Name: wisword RP: 22501 Rank: 393 Console: xbl Banned: false
+Name: its john j RP: 22499 Rank: 394 Console: xbl Banned: false
+Name: avengingwings77 RP: 22498 Rank: 395 Console: xbl Banned: true
+Name: acedarkzero RP: 22491 Rank: 396 Console: xbl Banned: true
+Name: zionximboy RP: 22491 Rank: 396 Console: xbl Banned: true
+Name: bauk RP: 22487 Rank: 398 Console: xbl Banned: true
+Name: ineed2touchgras RP: 22487 Rank: 398 Console: xbl Banned: false
+Name: nineshine1356 RP: 22476 Rank: 400 Console: xbl Banned: true
+Name: xlkage RP: 22467 Rank: 401 Console: xbl Banned: true
+Name: ryanlikesmen822 RP: 22466 Rank: 402 Console: xbl Banned: true
+Name: narcisist xi RP: 22465 Rank: 403 Console: xbl Banned: true
+Name: i uwu for u RP: 22458 Rank: 404 Console: xbl Banned: false
+Name: slazii RP: 22457 Rank: 405 Console: xbl Banned: true
+Name: twis7y RP: 22454 Rank: 406 Console: xbl Banned: false
+Name: hiro4811 RP: 22452 Rank: 407 Console: xbl Banned: false
+Name: xxxsebasxxx7999 RP: 22428 Rank: 408 Console: xbl Banned: false
+Name: theonlymid RP: 22423 Rank: 409 Console: xbl Banned: false
+Name: blxckyflostx RP: 22412 Rank: 410 Console: xbl Banned: true
+Name: nbn ivxdim RP: 22410 Rank: 411 Console: xbl Banned: false
+Name: s3a RP: 22407 Rank: 412 Console: xbl Banned: true
+Name: niv RP: 22407 Rank: 412 Console: xbl Banned: false
+Name: quis3733 RP: 22405 Rank: 414 Console: xbl Banned: true
+Name: laser cat sqaud RP: 22400 Rank: 415 Console: xbl Banned: false
+Name: forkisbanned RP: 22393 Rank: 416 Console: xbl Banned: false
+Name: i nismo l RP: 22374 Rank: 417 Console: xbl Banned: true
+Name: fearzyl RP: 22373 Rank: 418 Console: xbl Banned: false
+Name: sjjkakarotii RP: 22369 Rank: 419 Console: xbl Banned: false
+Name: xevogetsome RP: 22365 Rank: 420 Console: xbl Banned: false
+Name: bdk erik20 RP: 22353 Rank: 421 Console: xbl Banned: false
+Name: vxnful RP: 22347 Rank: 422 Console: xbl Banned: false
+Name: fauconjujux RP: 22345 Rank: 423 Console: xbl Banned: true
+Name: kellocstv RP: 22344 Rank: 424 Console: xbl Banned: false
+Name: jmoe shot ya RP: 22343 Rank: 425 Console: xbl Banned: true
+Name: free xhxrizn RP: 22337 Rank: 426 Console: xbl Banned: true
+Name: pepsy2468 RP: 22336 Rank: 427 Console: xbl Banned: false
+Name: xdsrxacethebest RP: 22336 Rank: 427 Console: xbl Banned: true
+Name: twitchbobson RP: 22335 Rank: 429 Console: xbl Banned: false
+Name: krodoz RP: 22326 Rank: 430 Console: xbl Banned: false
+Name: babyeul RP: 22325 Rank: 431 Console: xbl Banned: false
+Name: hi im mist RP: 22318 Rank: 432 Console: xbl Banned: false
+Name: captainkirkv5 RP: 22313 Rank: 433 Console: xbl Banned: false
+Name: s8nikz RP: 22305 Rank: 434 Console: xbl Banned: false
+Name: lrl pred RP: 22304 Rank: 435 Console: xbl Banned: true
+Name: aiueo1538 RP: 22301 Rank: 436 Console: xbl Banned: false
+Name: juiryo RP: 22298 Rank: 437 Console: xbl Banned: false
+Name: ryuuu xi RP: 22292 Rank: 438 Console: xbl Banned: true
+Name: fisp innit RP: 22291 Rank: 439 Console: xbl Banned: true
+Name: deutschbrot RP: 22289 Rank: 440 Console: xbl Banned: false
+Name: aleyiaa RP: 22287 Rank: 441 Console: xbl Banned: false
+Name: lluccanil RP: 22287 Rank: 441 Console: xbl Banned: false
+Name: kiryoka RP: 22285 Rank: 443 Console: xbl Banned: true
+Name: armsdealernw RP: 22281 Rank: 444 Console: xbl Banned: true
+Name: ag infernuz RP: 22280 Rank: 445 Console: xbl Banned: true
+Name: veqsen RP: 22276 Rank: 446 Console: xbl Banned: false
+Name: kuhzomie RP: 22275 Rank: 447 Console: xbl Banned: true
+Name: rkyxn RP: 22268 Rank: 448 Console: xbl Banned: false
+Name: kajen RP: 22267 Rank: 449 Console: xbl Banned: false
+Name: sihmplify RP: 22265 Rank: 450 Console: xbl Banned: true
+Name: d0mini0nn RP: 22263 Rank: 451 Console: xbl Banned: false
+Name: youies RP: 22255 Rank: 452 Console: xbl Banned: false
+Name: elitakels RP: 22255 Rank: 452 Console: xbl Banned: true
+Name: senpai pred RP: 22254 Rank: 454 Console: xbl Banned: false
+Name: dr maliice RP: 22250 Rank: 455 Console: xbl Banned: true
+Name: paths pooch RP: 22247 Rank: 456 Console: xbl Banned: false
+Name: ttv lts natty RP: 22245 Rank: 457 Console: xbl Banned: true
+Name: lcsmcflip RP: 22233 Rank: 458 Console: xbl Banned: true
+Name: quake ili RP: 22226 Rank: 459 Console: xbl Banned: false
+Name: b0ichy RP: 22226 Rank: 459 Console: xbl Banned: true
+Name: acid moonlight RP: 22223 Rank: 461 Console: xbl Banned: false
+Name: gh0st devilz RP: 22222 Rank: 462 Console: xbl Banned: false
+Name: im jxffrey RP: 22217 Rank: 463 Console: xbl Banned: false
+Name: hislobah RP: 22211 Rank: 464 Console: xbl Banned: true
+Name: mr royaii RP: 22210 Rank: 465 Console: xbl Banned: true
+Name: m0ntj RP: 22202 Rank: 466 Console: xbl Banned: false
+Name: sikario elmenol RP: 22201 Rank: 467 Console: xbl Banned: true
+Name: vprezes RP: 22200 Rank: 468 Console: xbl Banned: false
+Name: rapwerks RP: 22200 Rank: 468 Console: xbl Banned: false
+Name: ruung RP: 22196 Rank: 470 Console: xbl Banned: false
+Name: xrelu RP: 22192 Rank: 471 Console: xbl Banned: true
+Name: champso RP: 22190 Rank: 472 Console: xbl Banned: false
+Name: frostyfuelz RP: 22190 Rank: 472 Console: xbl Banned: false
+Name: xdsauced4818 RP: 22189 Rank: 474 Console: xbl Banned: false
+Name: tusimil RP: 22189 Rank: 474 Console: xbl Banned: true
+Name: isaintszn RP: 22188 Rank: 476 Console: xbl Banned: true
+Name: datenacity RP: 22183 Rank: 477 Console: xbl Banned: true
+Name: gamibloom RP: 22179 Rank: 478 Console: xbl Banned: false
+Name: l ping i RP: 22171 Rank: 479 Console: xbl Banned: true
+Name: callmepacaz RP: 22171 Rank: 479 Console: xbl Banned: false
+Name: kiilogang RP: 22171 Rank: 479 Console: xbl Banned: false
+Name: pxst lifx RP: 22171 Rank: 479 Console: xbl Banned: false
+Name: t7m RP: 22170 Rank: 483 Console: xbl Banned: false
+Name: thumps RP: 22167 Rank: 484 Console: xbl Banned: false
+Name: ilurk ips RP: 22153 Rank: 485 Console: xbl Banned: false
+Name: khaos2476 RP: 22152 Rank: 486 Console: xbl Banned: false
+Name: zitlow RP: 22151 Rank: 487 Console: xbl Banned: false
+Name: qjokz RP: 22149 Rank: 488 Console: xbl Banned: true
+Name: splashshredz RP: 22146 Rank: 489 Console: xbl Banned: true
+Name: gkr sweet RP: 22145 Rank: 490 Console: xbl Banned: false
+Name: fuvez RP: 22143 Rank: 491 Console: xbl Banned: false
+Name: fakewalljump RP: 22131 Rank: 492 Console: xbl Banned: true
+Name: ape them RP: 22129 Rank: 493 Console: xbl Banned: false
+Name: i voltfps i RP: 22123 Rank: 494 Console: xbl Banned: true
+Name: saltyvet ix RP: 22121 Rank: 495 Console: xbl Banned: false
+Name: mogsp 1 clip RP: 22116 Rank: 496 Console: xbl Banned: true
+Name: dracotlc RP: 22116 Rank: 496 Console: xbl Banned: true
+Name: imaindaddy RP: 22115 Rank: 498 Console: xbl Banned: false
+Name: depoke RP: 22104 Rank: 499 Console: xbl Banned: false
+Name: lyftss wrld RP: 22103 Rank: 500 Console: xbl Banned: false
+Name: predcap RP: 22103 Rank: 501 Console: xbl Banned: true
+Name: ayzee cash RP: 22103 Rank: 501 Console: xbl Banned: false
+Name: toxic teaz RP: 22090 Rank: 503 Console: xbl Banned: false
+Name: sadzilla gg RP: 22086 Rank: 504 Console: xbl Banned: false
+Name: hughmac606 RP: 22085 Rank: 505 Console: xbl Banned: false
+Name: freepluc RP: 22083 Rank: 506 Console: xbl Banned: true
+Name: nk1k RP: 22079 Rank: 507 Console: xbl Banned: false
+Name: punre RP: 22077 Rank: 508 Console: xbl Banned: false
+Name: goi4no pl4y RP: 22075 Rank: 509 Console: xbl Banned: true
+Name: beastboy5925 RP: 22075 Rank: 509 Console: xbl Banned: false
+Name: soullvss RP: 22074 Rank: 511 Console: xbl Banned: false
+Name: erzies RP: 22071 Rank: 512 Console: xbl Banned: false
+Name: jqrviss RP: 22069 Rank: 513 Console: xbl Banned: false
+Name: mommahorizon RP: 22069 Rank: 513 Console: xbl Banned: true
+Name: vpillv RP: 22064 Rank: 515 Console: xbl Banned: false
+Name: xt0xicreflectx RP: 22058 Rank: 516 Console: xbl Banned: false
+Name: joeoo7 RP: 22057 Rank: 517 Console: xbl Banned: false
+Name: l0ck8t RP: 22056 Rank: 518 Console: xbl Banned: false
+Name: xbullio RP: 22053 Rank: 519 Console: xbl Banned: true
+Name: lui mcklein RP: 22051 Rank: 520 Console: xbl Banned: true
+Name: xotics7631 RP: 22049 Rank: 521 Console: xbl Banned: true
+Name: aqxil RP: 22046 Rank: 522 Console: xbl Banned: false
+Name: frozenwdk RP: 22044 Rank: 523 Console: xbl Banned: false
+Name: xyagoodonex RP: 22042 Rank: 524 Console: xbl Banned: false
+Name: szh8 RP: 22039 Rank: 525 Console: xbl Banned: true
+Name: sneakyxxlion RP: 22038 Rank: 526 Console: xbl Banned: true
+Name: infecc RP: 22037 Rank: 527 Console: xbl Banned: true
+Name: ai kanji RP: 22034 Rank: 528 Console: xbl Banned: false
+Name: pablocd15 RP: 22031 Rank: 529 Console: xbl Banned: false
+Name: wauwau298510 RP: 22009 Rank: 530 Console: xbl Banned: false
+Name: rizikz RP: 22007 Rank: 531 Console: xbl Banned: false
+Name: orseu RP: 22003 Rank: 532 Console: xbl Banned: false
+Name: justinapes RP: 22002 Rank: 533 Console: xbl Banned: false
+Name: ajiiq RP: 22001 Rank: 534 Console: xbl Banned: false
+Name: sleepysisi RP: 21998 Rank: 535 Console: xbl Banned: false
+Name: halaven RP: 21998 Rank: 535 Console: xbl Banned: false
+Name: ouyk RP: 21998 Rank: 535 Console: xbl Banned: false
+Name: vhashira RP: 21996 Rank: 538 Console: xbl Banned: false
+Name: sxtymotionz RP: 21988 Rank: 539 Console: xbl Banned: false
+Name: luv kozii RP: 21981 Rank: 540 Console: xbl Banned: true
+Name: my kinfolk RP: 21980 Rank: 541 Console: xbl Banned: false
+Name: razxra RP: 21978 Rank: 542 Console: xbl Banned: false
+Name: sheluvspeck RP: 21977 Rank: 543 Console: xbl Banned: true
+Name: x il ii in ik RP: 21972 Rank: 544 Console: xbl Banned: false
+Name: dark aicezz RP: 21966 Rank: 545 Console: xbl Banned: true
+Name: dliamris RP: 21965 Rank: 546 Console: xbl Banned: false
+Name: koept RP: 21963 Rank: 547 Console: xbl Banned: true
+Name: fj strike RP: 21957 Rank: 548 Console: xbl Banned: false
+Name: kepzn RP: 21955 Rank: 549 Console: xbl Banned: false
+Name: vepoa RP: 21951 Rank: 550 Console: xbl Banned: false
+Name: rcheeky RP: 21943 Rank: 551 Console: xbl Banned: false
+Name: zwuit lol RP: 21942 Rank: 552 Console: xbl Banned: true
+Name: iuxiia RP: 21933 Rank: 553 Console: xbl Banned: true
+Name: bowlesy89 RP: 21929 Rank: 554 Console: xbl Banned: false
+Name: leadwayyy RP: 21929 Rank: 554 Console: xbl Banned: false
+Name: vtrysto RP: 21927 Rank: 556 Console: xbl Banned: true
+Name: xiiser RP: 21924 Rank: 557 Console: xbl Banned: true
+Name: ambitxnttv RP: 21921 Rank: 558 Console: xbl Banned: false
+Name: xxthenazoxx RP: 21917 Rank: 559 Console: xbl Banned: false
+Name: s f1ow RP: 21915 Rank: 560 Console: xbl Banned: false
+Name: orkose 92 RP: 21912 Rank: 561 Console: xbl Banned: false
+Name: lat bearbear RP: 21908 Rank: 562 Console: xbl Banned: false
+Name: memory lg RP: 21906 Rank: 563 Console: xbl Banned: false
+Name: loneriv RP: 21900 Rank: 564 Console: xbl Banned: false
+Name: cracked tal0n RP: 21898 Rank: 565 Console: xbl Banned: false
+Name: trf zam RP: 21896 Rank: 566 Console: xbl Banned: true
+Name: swixsh RP: 21888 Rank: 567 Console: xbl Banned: false
+Name: mr bob the dino RP: 21886 Rank: 568 Console: xbl Banned: true
+Name: dreyfuz xi RP: 21878 Rank: 569 Console: xbl Banned: false
+Name: bh1t RP: 21877 Rank: 570 Console: xbl Banned: false
+Name: darklzom RP: 21866 Rank: 571 Console: xbl Banned: true
+Name: x11cb siries RP: 21859 Rank: 572 Console: xbl Banned: false
+Name: loldzz RP: 21855 Rank: 573 Console: xbl Banned: true
+Name: push ov RP: 21853 Rank: 574 Console: xbl Banned: false
+Name: viqem RP: 21852 Rank: 575 Console: xbl Banned: false
+Name: klng orbz RP: 21852 Rank: 575 Console: xbl Banned: false
+Name: erytz RP: 21841 Rank: 577 Console: xbl Banned: false
+Name: rdamge RP: 21840 Rank: 578 Console: xbl Banned: false
+Name: prime viperx RP: 21837 Rank: 579 Console: xbl Banned: false
+Name: xvijayden RP: 21836 Rank: 580 Console: xbl Banned: false
+Name: zmisary RP: 21831 Rank: 581 Console: xbl Banned: false
+Name: fear the humble RP: 21828 Rank: 582 Console: xbl Banned: false
+Name: heilinkeiier RP: 21825 Rank: 583 Console: xbl Banned: false
+Name: theoniyloser RP: 21821 Rank: 584 Console: xbl Banned: false
+Name: sunlir RP: 21811 Rank: 585 Console: xbl Banned: true
+Name: y strafing RP: 21802 Rank: 586 Console: xbl Banned: true
+Name: th3gh0stf4c3 RP: 21797 Rank: 587 Console: xbl Banned: true
+Name: nastee plays RP: 21796 Rank: 588 Console: xbl Banned: true
+Name: snowbortz RP: 21791 Rank: 589 Console: xbl Banned: false
+Name: beamedbyphys RP: 21784 Rank: 590 Console: xbl Banned: true
+Name: asokeru RP: 21780 Rank: 591 Console: xbl Banned: true
+Name: ahmityy RP: 21765 Rank: 592 Console: xbl Banned: true
+Name: hencker slym RP: 21761 Rank: 593 Console: xbl Banned: false
+Name: hm ciouds RP: 21756 Rank: 594 Console: xbl Banned: true
+Name: kifqey RP: 21742 Rank: 595 Console: xbl Banned: true
+Name: cga skinny RP: 21735 Rank: 596 Console: xbl Banned: false
+Name: terraulize RP: 21702 Rank: 597 Console: xbl Banned: true
+Name: l trapgod i RP: 21694 Rank: 598 Console: xbl Banned: true
+Name: tekxxiii RP: 21693 Rank: 599 Console: xbl Banned: true
+Name: xezzyz RP: 21685 Rank: 600 Console: xbl Banned: false
+Name: xezzyz RP: 21685 Rank: 601 Console: xbl Banned: false
+Name: realizezsx RP: 21683 Rank: 602 Console: xbl Banned: true
+Name: gotpips RP: 21681 Rank: 603 Console: xbl Banned: false
+Name: jaded RP: 21672 Rank: 604 Console: xbl Banned: false
+Name: lil sqizz RP: 21671 Rank: 605 Console: xbl Banned: true
+Name: zone moe RP: 21671 Rank: 605 Console: xbl Banned: true
+Name: fuscaz RP: 21668 Rank: 607 Console: xbl Banned: true
+Name: xhxrizn RP: 21665 Rank: 608 Console: xbl Banned: true
+Name: fwosteh RP: 21660 Rank: 609 Console: xbl Banned: false
+Name: ruse 24s RP: 21660 Rank: 609 Console: xbl Banned: true
+Name: superbean0tv RP: 21658 Rank: 611 Console: xbl Banned: true
+Name: toxlc drlp RP: 21657 Rank: 612 Console: xbl Banned: true
+Name: suhfrs RP: 21647 Rank: 613 Console: xbl Banned: false
+Name: vexatn RP: 21630 Rank: 614 Console: xbl Banned: false
+Name: kiajay2007 RP: 21627 Rank: 615 Console: xbl Banned: true
+Name: xamsty RP: 21616 Rank: 616 Console: xbl Banned: true
+Name: necrosatam RP: 21608 Rank: 617 Console: xbl Banned: false
+Name: hiik w RP: 21589 Rank: 618 Console: xbl Banned: true
+Name: takebumps RP: 21563 Rank: 619 Console: xbl Banned: false
+Name: deus inarius RP: 21560 Rank: 620 Console: xbl Banned: true
+Name: just 1 sniff612 RP: 21557 Rank: 621 Console: xbl Banned: true
+Name: skillsdatkillsx RP: 21555 Rank: 622 Console: xbl Banned: false
+Name: the 4 for 4 RP: 21544 Rank: 623 Console: xbl Banned: false
+Name: ispliish RP: 21536 Rank: 624 Console: xbl Banned: true
+Name: theuzi claps RP: 21532 Rank: 625 Console: xbl Banned: false
+Name: wiurs RP: 21527 Rank: 626 Console: xbl Banned: true
+Name: femi3oys RP: 21525 Rank: 627 Console: xbl Banned: false
+Name: avenge x troll RP: 21512 Rank: 628 Console: xbl Banned: false
+Name: vknoqx RP: 21510 Rank: 629 Console: xbl Banned: false
+Name: im kanye west RP: 21489 Rank: 630 Console: xbl Banned: true
+Name: prospectivc RP: 21488 Rank: 631 Console: xbl Banned: true
+Name: nayt a qt RP: 21488 Rank: 631 Console: xbl Banned: false
+Name: clamatito12 RP: 21478 Rank: 633 Console: xbl Banned: true
+Name: shardnel RP: 21475 Rank: 634 Console: xbl Banned: false
+Name: mtntksflyy RP: 21467 Rank: 635 Console: xbl Banned: true
+Name: rgg psycho RP: 21458 Rank: 636 Console: xbl Banned: true
+Name: itadori soju RP: 21455 Rank: 637 Console: xbl Banned: true
+Name: seth 1 clip RP: 21451 Rank: 638 Console: xbl Banned: false
+Name: lxvelyyk1ng RP: 21448 Rank: 639 Console: xbl Banned: false
+Name: beanbeatxr RP: 21437 Rank: 640 Console: xbl Banned: false
+Name: juxart RP: 21437 Rank: 640 Console: xbl Banned: false
+Name: macbookpro1385 RP: 21434 Rank: 642 Console: xbl Banned: false
+Name: fvxyyz RP: 21428 Rank: 643 Console: xbl Banned: false
+Name: loon3y goons RP: 21428 Rank: 643 Console: xbl Banned: false
+Name: nesuryy RP: 21408 Rank: 645 Console: xbl Banned: true
+Name: abisx ttv RP: 21408 Rank: 645 Console: xbl Banned: false
+Name: hou yi1 RP: 21406 Rank: 647 Console: xbl Banned: false
+Name: sqiizk RP: 21400 Rank: 648 Console: xbl Banned: true
+Name: lodvenus RP: 21391 Rank: 649 Console: xbl Banned: true
+Name: ocraxm RP: 21379 Rank: 650 Console: xbl Banned: false
+Name: xoxwanted RP: 21378 Rank: 651 Console: xbl Banned: false
+Name: g1 polyphia RP: 21375 Rank: 652 Console: xbl Banned: true
+Name: rengb0 RP: 21363 Rank: 653 Console: xbl Banned: true
+Name: aewmo RP: 21360 Rank: 654 Console: xbl Banned: false
+Name: universalv7191 RP: 21359 Rank: 655 Console: xbl Banned: true
+Name: keanu dc RP: 21358 Rank: 656 Console: xbl Banned: true
+Name: l wasian l RP: 21357 Rank: 657 Console: xbl Banned: true
+Name: kushiiesty RP: 21355 Rank: 658 Console: xbl Banned: false
+Name: o3az RP: 21353 Rank: 659 Console: xbl Banned: true
+Name: suxreme RP: 21347 Rank: 660 Console: xbl Banned: false
+Name: goldnflo RP: 21337 Rank: 661 Console: xbl Banned: true
+Name: t0kesy RP: 21331 Rank: 662 Console: xbl Banned: true
+Name: piayer RP: 21323 Rank: 663 Console: xbl Banned: false
+Name: rspectic RP: 21311 Rank: 664 Console: xbl Banned: false
+Name: tt dysyxkrab RP: 21307 Rank: 665 Console: xbl Banned: true
+Name: nnoqd RP: 21298 Rank: 666 Console: xbl Banned: true
+Name: wanciip RP: 21295 Rank: 667 Console: xbl Banned: false
+Name: iitztwizzyy RP: 21293 Rank: 668 Console: xbl Banned: false
+Name: scaared yet RP: 21292 Rank: 669 Console: xbl Banned: false
+Name: kilovoltt RP: 21288 Rank: 670 Console: xbl Banned: false
+Name: bipolajesus RP: 21288 Rank: 670 Console: xbl Banned: false
+Name: ismokesauce RP: 21278 Rank: 672 Console: xbl Banned: true
+Name: gator clapz RP: 21277 Rank: 673 Console: xbl Banned: false
+Name: just inhale RP: 21273 Rank: 674 Console: xbl Banned: false
+Name: aspect loziq RP: 21270 Rank: 675 Console: xbl Banned: true
+Name: azl oakley RP: 21267 Rank: 676 Console: xbl Banned: false
+Name: iii pegasus RP: 21260 Rank: 677 Console: xbl Banned: false
+Name: rizzahollk RP: 21259 Rank: 678 Console: xbl Banned: true
+Name: crumbean RP: 21257 Rank: 679 Console: xbl Banned: false
+Name: irohxy RP: 21254 Rank: 680 Console: xbl Banned: false
+Name: probxem RP: 21228 Rank: 681 Console: xbl Banned: true
+Name: drexz clapzz RP: 21212 Rank: 682 Console: xbl Banned: true
+Name: drawpd RP: 21205 Rank: 683 Console: xbl Banned: false
+Name: vision aran1 RP: 21195 Rank: 684 Console: xbl Banned: false
+Name: nevrswitch RP: 21192 Rank: 685 Console: xbl Banned: false
+Name: i trixngle i RP: 21190 Rank: 686 Console: xbl Banned: true
+Name: wizkoh RP: 21187 Rank: 687 Console: xbl Banned: false
+Name: cuiazo RP: 21158 Rank: 688 Console: xbl Banned: true
+Name: blind mikee RP: 21138 Rank: 689 Console: xbl Banned: true
+Name: unchilex RP: 21136 Rank: 690 Console: xbl Banned: false
+Name: swuezm RP: 21127 Rank: 691 Console: xbl Banned: false
+Name: wg aczino4918 RP: 21119 Rank: 692 Console: xbl Banned: true
+Name: bu2zing RP: 21112 Rank: 693 Console: xbl Banned: false
+Name: plpw RP: 21111 Rank: 694 Console: xbl Banned: true
+Name: take easy w RP: 21108 Rank: 695 Console: xbl Banned: false
+Name: vezirum RP: 21107 Rank: 696 Console: xbl Banned: false
+Name: saltskii RP: 21098 Rank: 697 Console: xbl Banned: false
+Name: oigressss RP: 21095 Rank: 698 Console: xbl Banned: false
+Name: dxfhlect RP: 21089 Rank: 699 Console: xbl Banned: true
+Name: mommyhorizon758 RP: 21059 Rank: 700 Console: xbl Banned: true
+Name: cheftique967 RP: 21050 Rank: 701 Console: xbl Banned: true
+Name: xii r a l n RP: 21043 Rank: 702 Console: xbl Banned: true
+Name: iindlca RP: 21040 Rank: 703 Console: xbl Banned: true
+Name: krasiee RP: 21035 Rank: 704 Console: xbl Banned: false
+Name: keanu dc ii RP: 21032 Rank: 705 Console: xbl Banned: true
+Name: frailtey RP: 21020 Rank: 706 Console: xbl Banned: false
+Name: dark 1 clip RP: 21014 Rank: 707 Console: xbl Banned: true
+Name: r21 nebula RP: 21001 Rank: 708 Console: xbl Banned: true
+Name: c h e f2645 RP: 20998 Rank: 709 Console: xbl Banned: false
+Name: clear motives RP: 20997 Rank: 710 Console: xbl Banned: false
+Name: nessie madee RP: 20974 Rank: 711 Console: xbl Banned: true
+Name: r301 madee RP: 20969 Rank: 712 Console: xbl Banned: true
+Name: ifrozeyouu RP: 20963 Rank: 713 Console: xbl Banned: true
+Name: ibiicky RP: 20958 Rank: 714 Console: xbl Banned: false
+Name: ttwinklenutz RP: 20947 Rank: 715 Console: xbl Banned: false
+Name: sainthuggies RP: 20946 Rank: 716 Console: xbl Banned: true
+Name: tek watergun RP: 20945 Rank: 717 Console: xbl Banned: false
+Name: iwastries RP: 20943 Rank: 718 Console: xbl Banned: true
+Name: xfeyyx RP: 20940 Rank: 719 Console: xbl Banned: true
+Name: whitejailor RP: 20939 Rank: 720 Console: xbl Banned: false
+Name: pleeden RP: 20937 Rank: 721 Console: xbl Banned: false
+Name: dehburt29 RP: 20928 Rank: 722 Console: xbl Banned: true
+Name: ipoochs RP: 20924 Rank: 723 Console: xbl Banned: false
+Name: pastrelation RP: 20919 Rank: 724 Console: xbl Banned: false
+Name: maxbtw5228 RP: 20918 Rank: 725 Console: xbl Banned: true
+Name: sin of gore RP: 20915 Rank: 726 Console: xbl Banned: false
+Name: ghosted kf RP: 20912 Rank: 727 Console: xbl Banned: true
+Name: uri revived RP: 20906 Rank: 728 Console: xbl Banned: false
+Name: tatnn RP: 20906 Rank: 728 Console: xbl Banned: true
+Name: excel astros RP: 20901 Rank: 730 Console: xbl Banned: true
+Name: x1m inbound RP: 20893 Rank: 731 Console: xbl Banned: false
+Name: one magged u RP: 20891 Rank: 732 Console: xbl Banned: false
+Name: mejur RP: 20883 Rank: 733 Console: xbl Banned: true
+Name: jfeitan RP: 20861 Rank: 734 Console: xbl Banned: true
+Name: toxicsweet420 RP: 20859 Rank: 735 Console: xbl Banned: true
+Name: k4l phorcys RP: 20859 Rank: 735 Console: xbl Banned: true
+Name: ifragtaall RP: 20856 Rank: 737 Console: xbl Banned: true
+Name: descipletv RP: 20854 Rank: 738 Console: xbl Banned: false
+Name: rss luhvable RP: 20849 Rank: 739 Console: xbl Banned: true
+Name: lgrunada RP: 20837 Rank: 740 Console: xbl Banned: true
+Name: d3xsterity RP: 20831 Rank: 741 Console: xbl Banned: false
+Name: ttv zuqikk RP: 20829 Rank: 742 Console: xbl Banned: true
+Name: z2 eribel RP: 20823 Rank: 743 Console: xbl Banned: true
+Name: zcrowner RP: 20816 Rank: 744 Console: xbl Banned: true
+Name: jzssy RP: 20800 Rank: 745 Console: xbl Banned: false
+Name: xelency RP: 20796 Rank: 746 Console: xbl Banned: false
+Name: uz6d RP: 20793 Rank: 747 Console: xbl Banned: true
+Name: way2fruity RP: 20791 Rank: 748 Console: xbl Banned: false
+Name: cyometsu RP: 20789 Rank: 749 Console: xbl Banned: true
+Name: ttv rrello RP: 20783 Rank: 750 Console: xbl Banned: true
+Name: massivejoker115 RP: 20783 Rank: 750 Console: xbl Banned: true
+Name: cyz sparkly RP: 20778 Rank: 752 Console: xbl Banned: true
+Name: skylight199 RP: 20775 Rank: 753 Console: xbl Banned: true
+Name: el dantegory RP: 20765 Rank: 754 Console: xbl Banned: true
+Name: honoredflyr RP: 20764 Rank: 755 Console: xbl Banned: false
+Name: souleater02955 RP: 20744 Rank: 756 Console: xbl Banned: true
+Name: dh berry RP: 20735 Rank: 757 Console: xbl Banned: true
+Name: winter drill RP: 20732 Rank: 758 Console: xbl Banned: false
+Name: vamploki9991 RP: 20722 Rank: 759 Console: xbl Banned: true
+Name: whatscrakinmani RP: 20717 Rank: 760 Console: xbl Banned: false
+Name: ghhossttt RP: 20715 Rank: 761 Console: xbl Banned: true
+Name: atricks b RP: 20704 Rank: 762 Console: xbl Banned: true
+Name: dev qw RP: 20700 Rank: 763 Console: xbl Banned: false
+Name: juiceeddie RP: 20697 Rank: 764 Console: xbl Banned: false
+Name: horus twich RP: 20680 Rank: 765 Console: xbl Banned: true
+Name: qzui2 RP: 20664 Rank: 766 Console: xbl Banned: true
+Name: zfemto RP: 20660 Rank: 767 Console: xbl Banned: false
+Name: e trash z RP: 20655 Rank: 768 Console: xbl Banned: false
+Name: tysqo RP: 20643 Rank: 769 Console: xbl Banned: false
+Name: bigdumperfn RP: 20639 Rank: 770 Console: xbl Banned: true
+Name: ripskiyt RP: 20635 Rank: 771 Console: xbl Banned: true
+Name: fgh xposeidonx RP: 20631 Rank: 772 Console: xbl Banned: true
+Name: tlb100 RP: 20610 Rank: 773 Console: xbl Banned: false
+Name: halo4destroyer RP: 20599 Rank: 774 Console: xbl Banned: true
+Name: bigballer807 RP: 20597 Rank: 775 Console: xbl Banned: true
+Name: kikeloko7536 RP: 20595 Rank: 776 Console: xbl Banned: false
+Name: soulgera9074 RP: 20593 Rank: 777 Console: xbl Banned: true
+Name: im tiimo RP: 20584 Rank: 778 Console: xbl Banned: false
+Name: aimiee x RP: 20575 Rank: 779 Console: xbl Banned: true
+Name: rkukki RP: 20572 Rank: 780 Console: xbl Banned: true
+Name: ez samaa RP: 20553 Rank: 781 Console: xbl Banned: true
+Name: jaqket RP: 20550 Rank: 782 Console: xbl Banned: false
+Name: actualchickenyt RP: 20546 Rank: 783 Console: xbl Banned: true
+Name: luhsted RP: 20528 Rank: 784 Console: xbl Banned: false
+Name: papi webby RP: 20528 Rank: 784 Console: xbl Banned: true
+Name: pk h1t for 9 RP: 20514 Rank: 786 Console: xbl Banned: true
+Name: daaaavie RP: 20508 Rank: 787 Console: xbl Banned: false
+Name: vortekxapollo RP: 20508 Rank: 787 Console: xbl Banned: false
+Name: im rfaide RP: 20495 Rank: 789 Console: xbl Banned: false
+Name: lawless klaw RP: 20472 Rank: 790 Console: xbl Banned: false
+Name: ewbeansxdttv RP: 20468 Rank: 791 Console: xbl Banned: true
+Name: quinoss7 RP: 20467 Rank: 792 Console: xbl Banned: false
+Name: dragoui RP: 20456 Rank: 793 Console: xbl Banned: false
+Name: zhayynn RP: 20448 Rank: 794 Console: xbl Banned: false
+Name: yt warks RP: 20445 Rank: 795 Console: xbl Banned: true
+Name: maqintoshh RP: 20441 Rank: 796 Console: xbl Banned: false
+Name: korradagoat RP: 20436 Rank: 797 Console: xbl Banned: false
+Name: still ro RP: 20424 Rank: 798 Console: xbl Banned: false
+Name: lxgixnn RP: 20424 Rank: 798 Console: xbl Banned: false
+Name: bsxtooko RP: 20424 Rank: 798 Console: xbl Banned: true
+Name: still ro RP: 20424 Rank: 801 Console: xbl Banned: false
+Name: bsxtooko RP: 20424 Rank: 801 Console: xbl Banned: true
+Name: mzf6 RP: 20419 Rank: 803 Console: xbl Banned: true
+Name: x26e RP: 20417 Rank: 804 Console: xbl Banned: true
+Name: acendingrn RP: 20406 Rank: 805 Console: xbl Banned: true
+Name: wizijk RP: 20399 Rank: 806 Console: xbl Banned: false
+Name: resentfulz RP: 20393 Rank: 807 Console: xbl Banned: false
+Name: drizzy2137 RP: 20374 Rank: 808 Console: xbl Banned: true
+Name: jaydinisgod RP: 20363 Rank: 809 Console: xbl Banned: true
+Name: trf killua RP: 20357 Rank: 810 Console: xbl Banned: true
+Name: krasiee RP: 20354 Rank: 811 Console: xbl Banned: false
+Name: kiimetzuu RP: 20351 Rank: 812 Console: xbl Banned: true
+Name: fazeangy RP: 20351 Rank: 812 Console: xbl Banned: true
+Name: bluesybtw yt RP: 20350 Rank: 814 Console: xbl Banned: false
+Name: koyzuki RP: 20348 Rank: 815 Console: xbl Banned: false
+Name: acez0 RP: 20336 Rank: 816 Console: xbl Banned: true
+Name: rkiicks RP: 20324 Rank: 817 Console: xbl Banned: true
+Name: xv eclipse RP: 20302 Rank: 818 Console: xbl Banned: false
+Name: have misery RP: 20299 Rank: 819 Console: xbl Banned: false
+Name: bavistheballer1 RP: 20273 Rank: 820 Console: xbl Banned: true
+Name: astralprojet RP: 20270 Rank: 821 Console: xbl Banned: false
+Name: ifaxion RP: 20268 Rank: 822 Console: xbl Banned: true
+Name: spoult3rz RP: 20265 Rank: 823 Console: xbl Banned: false
+Name: majoritycube699 RP: 20255 Rank: 824 Console: xbl Banned: true
+Name: i putteh i RP: 20249 Rank: 825 Console: xbl Banned: false
+Name: tnt is a w RP: 20245 Rank: 826 Console: xbl Banned: false
+Name: jurasixx RP: 20226 Rank: 827 Console: xbl Banned: false
+Name: vdemonking RP: 20223 Rank: 828 Console: xbl Banned: true
+Name: smurfffffzzz RP: 20220 Rank: 829 Console: xbl Banned: false
+Name: rl anthers RP: 20199 Rank: 830 Console: xbl Banned: true
+Name: buz shoot RP: 20190 Rank: 831 Console: xbl Banned: false
+Name: viptivitys RP: 20182 Rank: 832 Console: xbl Banned: false
+Name: deepawts RP: 20180 Rank: 833 Console: xbl Banned: false
+Name: redzz fps RP: 20175 Rank: 834 Console: xbl Banned: true
+Name: zen hardr RP: 20167 Rank: 835 Console: xbl Banned: false
+Name: troviq qt RP: 20167 Rank: 835 Console: xbl Banned: false
+Name: mona jr RP: 20157 Rank: 837 Console: xbl Banned: false
+Name: lf divine47 RP: 20134 Rank: 838 Console: xbl Banned: false
+Name: e0eazy RP: 20094 Rank: 839 Console: xbl Banned: true
+Name: xyrzie RP: 20073 Rank: 840 Console: xbl Banned: false
+Name: cgi nick RP: 20046 Rank: 841 Console: xbl Banned: true
+Name: ybn goomba RP: 20034 Rank: 842 Console: xbl Banned: false
+Name: ttv lunacy RP: 20032 Rank: 843 Console: xbl Banned: false
+Name: takami zeek RP: 20007 Rank: 844 Console: xbl Banned: false
+Name: flum floatt RP: 20002 Rank: 845 Console: xbl Banned: false
+Name: sense rod RP: 19996 Rank: 846 Console: xbl Banned: true
+Name: r9ha RP: 19962 Rank: 847 Console: xbl Banned: true
+Name: lil peep aye RP: 19941 Rank: 848 Console: xbl Banned: false
+Name: kobesaim RP: 19934 Rank: 849 Console: xbl Banned: true
+Name: wassteeman RP: 19927 Rank: 850 Console: xbl Banned: false
+Name: yaghmi RP: 19913 Rank: 851 Console: xbl Banned: true
+Name: berightbakker RP: 19894 Rank: 852 Console: xbl Banned: false
+Name: iiude RP: 19887 Rank: 853 Console: xbl Banned: true
+Name: lrveg x RP: 19876 Rank: 854 Console: xbl Banned: true
+Name: rnk stepsis RP: 19857 Rank: 855 Console: xbl Banned: false
+Name: lil fishel RP: 19852 Rank: 856 Console: xbl Banned: true
+Name: whothis234 RP: 19851 Rank: 857 Console: xbl Banned: false
+Name: hidefromjay RP: 19841 Rank: 858 Console: xbl Banned: true
+Name: fear scans RP: 19841 Rank: 858 Console: xbl Banned: false
+Name: zvu RP: 19835 Rank: 860 Console: xbl Banned: true
+Name: big time dug RP: 19832 Rank: 861 Console: xbl Banned: false
+Name: ended b RP: 19789 Rank: 862 Console: xbl Banned: false
+Name: oneclipbymiz RP: 19774 Rank: 863 Console: xbl Banned: false
+Name: nor beamedu RP: 19767 Rank: 864 Console: xbl Banned: false
+Name: zfvzz RP: 19764 Rank: 865 Console: xbl Banned: false
+Name: literaly bad RP: 19748 Rank: 866 Console: xbl Banned: false
+Name: mentows RP: 19721 Rank: 867 Console: xbl Banned: true
+Name: warmbr3ad RP: 19713 Rank: 868 Console: xbl Banned: false
+Name: master jmizz RP: 19695 Rank: 869 Console: xbl Banned: true
+Name: bigthingx RP: 19692 Rank: 870 Console: xbl Banned: false
+Name: ii axzyro ii RP: 19656 Rank: 871 Console: xbl Banned: true
+Name: aojoki RP: 19655 Rank: 872 Console: xbl Banned: true
+Name: beamedbyr10t RP: 19641 Rank: 873 Console: xbl Banned: true
+Name: l witalian l RP: 19640 Rank: 874 Console: xbl Banned: true
+Name: turpsa RP: 19635 Rank: 875 Console: xbl Banned: false
+Name: daqful RP: 19634 Rank: 876 Console: xbl Banned: true
+Name: susbuckett RP: 19619 Rank: 877 Console: xbl Banned: false
+Name: bs aldana RP: 19610 Rank: 878 Console: xbl Banned: false
+Name: a smallslime RP: 19604 Rank: 879 Console: xbl Banned: true
+Name: ospace boundz RP: 19568 Rank: 880 Console: xbl Banned: false
+Name: fouziux RP: 19563 Rank: 881 Console: xbl Banned: false
+Name: ylasu RP: 19557 Rank: 882 Console: xbl Banned: false
+Name: awwhebroke RP: 19552 Rank: 883 Console: xbl Banned: true
+Name: mmezs RP: 19536 Rank: 884 Console: xbl Banned: false
+Name: cind3reila RP: 19498 Rank: 885 Console: xbl Banned: false
+Name: ii satisfaction RP: 19492 Rank: 886 Console: xbl Banned: true
+Name: n9x cryxhater RP: 19460 Rank: 887 Console: xbl Banned: false
+Name: full aqvaaa RP: 19431 Rank: 888 Console: xbl Banned: true
+Name: zab RP: 19420 Rank: 889 Console: xbl Banned: false
+Name: primesniper012 RP: 19414 Rank: 890 Console: xbl Banned: false
+Name: rowdium RP: 19405 Rank: 891 Console: xbl Banned: false
+Name: ol666o RP: 19399 Rank: 892 Console: xbl Banned: true
+Name: qjiqz RP: 19399 Rank: 892 Console: xbl Banned: true
+Name: clppdbyag1rl RP: 19356 Rank: 894 Console: xbl Banned: true
+Name: dio was him RP: 19355 Rank: 895 Console: xbl Banned: false
+Name: ryanmillo123 RP: 19346 Rank: 896 Console: xbl Banned: false
+Name: krownedklown2 RP: 19343 Rank: 897 Console: xbl Banned: false
+Name: ttk stoney RP: 19332 Rank: 898 Console: xbl Banned: false
+Name: trixy daddy RP: 19324 Rank: 899 Console: xbl Banned: true
+Name: taxi7g RP: 19314 Rank: 900 Console: xbl Banned: false
+Name: jennaisant RP: 19311 Rank: 901 Console: xbl Banned: false
+Name: croma hearts RP: 19305 Rank: 902 Console: xbl Banned: true
+Name: afghanihan RP: 19285 Rank: 903 Console: xbl Banned: false
+Name: zss goproyt RP: 19285 Rank: 903 Console: xbl Banned: false
+Name: starboyeric RP: 19267 Rank: 905 Console: xbl Banned: false
+Name: hinas wrld RP: 19258 Rank: 906 Console: xbl Banned: true
+Name: q lynxz RP: 19255 Rank: 907 Console: xbl Banned: true
+Name: sky tamagot RP: 19244 Rank: 908 Console: xbl Banned: false
+Name: xxgkzfearxx RP: 19215 Rank: 909 Console: xbl Banned: true
+Name: tadoe gg RP: 19213 Rank: 910 Console: xbl Banned: false
+Name: mastercoppr RP: 19187 Rank: 911 Console: xbl Banned: true
+Name: eslinky RP: 19180 Rank: 912 Console: xbl Banned: false
+Name: xtrickzzy RP: 19174 Rank: 913 Console: xbl Banned: true
+Name: z1y1 RP: 19169 Rank: 914 Console: xbl Banned: true
+Name: tttlusquinha RP: 19164 Rank: 915 Console: xbl Banned: false
+Name: prettypup207099 RP: 19160 Rank: 916 Console: xbl Banned: false
+Name: minihijacker9 RP: 19140 Rank: 917 Console: xbl Banned: false
+Name: daenotskinny811 RP: 19129 Rank: 918 Console: xbl Banned: true
+Name: chisatoyuki RP: 19115 Rank: 919 Console: xbl Banned: false
+Name: peresanty RP: 19112 Rank: 920 Console: xbl Banned: true
+Name: wakebakejake RP: 19107 Rank: 921 Console: xbl Banned: false
+Name: killerstive117 RP: 19105 Rank: 922 Console: xbl Banned: true
+Name: saphirchain RP: 19099 Rank: 923 Console: xbl Banned: true
+Name: free rp join RP: 19097 Rank: 924 Console: xbl Banned: true
+Name: marshallmi RP: 19067 Rank: 925 Console: xbl Banned: false
+Name: gloomystuff RP: 19066 Rank: 926 Console: xbl Banned: true
+Name: xlikely RP: 19051 Rank: 927 Console: xbl Banned: false
+Name: frenzickills RP: 19029 Rank: 928 Console: xbl Banned: false
+Name: kenneywest RP: 19029 Rank: 928 Console: xbl Banned: true
+Name: amai grief n9x RP: 19000 Rank: 930 Console: xbl Banned: false
+Name: listekoerper39 RP: 18998 Rank: 931 Console: xbl Banned: false
+Name: pn qupid RP: 18990 Rank: 932 Console: xbl Banned: false
+Name: xbox turnaff RP: 18980 Rank: 933 Console: xbl Banned: false
+Name: spuhnkie RP: 18938 Rank: 934 Console: xbl Banned: false
+Name: remixpowerz RP: 18913 Rank: 935 Console: xbl Banned: false
+Name: ii whitty ll RP: 18898 Rank: 936 Console: xbl Banned: false
+Name: chad mind RP: 18894 Rank: 937 Console: xbl Banned: false
+Name: rez aikoo RP: 18888 Rank: 938 Console: xbl Banned: true
+Name: deeeeks RP: 18860 Rank: 939 Console: xbl Banned: false
+Name: rorti RP: 18829 Rank: 940 Console: xbl Banned: false
+Name: sxuds RP: 18822 Rank: 941 Console: xbl Banned: true
+Name: hoagiebro RP: 18816 Rank: 942 Console: xbl Banned: false
+Name: exzisting RP: 18810 Rank: 943 Console: xbl Banned: false
+Name: vrewxny RP: 18803 Rank: 944 Console: xbl Banned: false
+Name: markohzx RP: 18802 Rank: 945 Console: xbl Banned: false
+Name: biests RP: 18800 Rank: 946 Console: xbl Banned: false
+Name: axrise RP: 18793 Rank: 947 Console: xbl Banned: false
+Name: sf notlixx RP: 18778 Rank: 948 Console: xbl Banned: false
+Name: mignize RP: 18712 Rank: 949 Console: xbl Banned: false
+Name: dxrkkvibxs RP: 18698 Rank: 950 Console: xbl Banned: true
+Name: swaroop629 RP: 18653 Rank: 951 Console: xbl Banned: false
+Name: caustico59 RP: 18648 Rank: 952 Console: xbl Banned: true
+Name: assassln RP: 18646 Rank: 953 Console: xbl Banned: false
+Name: strokemyr301 RP: 18634 Rank: 954 Console: xbl Banned: false
+Name: ltwtlvo RP: 18607 Rank: 955 Console: xbl Banned: false
+Name: kuyoh RP: 18600 Rank: 956 Console: xbl Banned: false
+Name: pn dreamz RP: 18571 Rank: 957 Console: xbl Banned: false
+Name: xblu3xfir3x RP: 18571 Rank: 957 Console: xbl Banned: true
+Name: kurse dtb RP: 18564 Rank: 959 Console: xbl Banned: false
+Name: muzzagames RP: 18560 Rank: 960 Console: xbl Banned: false
+Name: ly reflex yl RP: 18559 Rank: 961 Console: xbl Banned: false
+Name: twitch bexxy RP: 18555 Rank: 962 Console: xbl Banned: false
+Name: dole ty xbox RP: 18547 Rank: 963 Console: xbl Banned: false
+Name: itzwandztv RP: 18521 Rank: 964 Console: xbl Banned: false
+Name: eluxc RP: 18518 Rank: 965 Console: xbl Banned: false
+Name: goatakiss RP: 18517 Rank: 966 Console: xbl Banned: true
+Name: tsy youngndumb RP: 18495 Rank: 967 Console: xbl Banned: true
+Name: gz seba RP: 18485 Rank: 968 Console: xbl Banned: false
+Name: lsq heineken RP: 18454 Rank: 969 Console: xbl Banned: false
+Name: mr decimat0r RP: 18442 Rank: 970 Console: xbl Banned: false
+Name: eres un bot3811 RP: 18419 Rank: 971 Console: xbl Banned: true
+Name: wi tu loe RP: 18409 Rank: 972 Console: xbl Banned: true
+Name: zaythin RP: 18391 Rank: 973 Console: xbl Banned: false
+Name: ggezie RP: 18387 Rank: 974 Console: xbl Banned: true
+Name: dyspxl RP: 18387 Rank: 974 Console: xbl Banned: false
+Name: pluqabie RP: 18376 Rank: 976 Console: xbl Banned: true
+Name: vnaic RP: 18368 Rank: 977 Console: xbl Banned: true
+Name: wllx RP: 18368 Rank: 977 Console: xbl Banned: true
+Name: daddys r301 RP: 18361 Rank: 979 Console: xbl Banned: true
+Name: memories now RP: 18359 Rank: 980 Console: xbl Banned: false
+Name: i reaven l RP: 18353 Rank: 981 Console: xbl Banned: false
+Name: psycho1178 RP: 18344 Rank: 982 Console: xbl Banned: true
+Name: stormzzz42 RP: 18330 Rank: 983 Console: xbl Banned: true
+Name: iyr1cai RP: 18327 Rank: 984 Console: xbl Banned: false
+Name: qstee RP: 18325 Rank: 985 Console: xbl Banned: false
+Name: yopxy RP: 18320 Rank: 986 Console: xbl Banned: true
+Name: itsmesnowznn RP: 18313 Rank: 987 Console: xbl Banned: false
+Name: vsmxii RP: 18307 Rank: 988 Console: xbl Banned: false
+Name: ensino RP: 18297 Rank: 989 Console: xbl Banned: false
+Name: loeviy RP: 18293 Rank: 990 Console: xbl Banned: true
+Name: qtakr RP: 18291 Rank: 991 Console: xbl Banned: true
+Name: diamondjjtv RP: 18286 Rank: 992 Console: xbl Banned: false
+Name: megatutti RP: 18272 Rank: 993 Console: xbl Banned: false
+Name: xsweatybaby RP: 18266 Rank: 994 Console: xbl Banned: true
+Name: tsmdaequan6462 RP: 18258 Rank: 995 Console: xbl Banned: false
+Name: krylix1325 RP: 18250 Rank: 996 Console: xbl Banned: false
+Name: pn footage RP: 18243 Rank: 997 Console: xbl Banned: false
+Name: pstolz RP: 18233 Rank: 998 Console: xbl Banned: false
+Name: v papatango x RP: 18226 Rank: 999 Console: xbl Banned: false
+Name: rjtch RP: 18214 Rank: 1000 Console: xbl Banned: false
+Name: iitzshiftyy RP: 18214 Rank: 1001 Console: xbl Banned: false
+Name: madmig7 RP: 18202 Rank: 1002 Console: xbl Banned: true
+Name: sarretii RP: 18202 Rank: 1002 Console: xbl Banned: false
+Name: boppedbyakio RP: 18197 Rank: 1004 Console: xbl Banned: false
+Name: thiccgoatguy RP: 18172 Rank: 1005 Console: xbl Banned: false
+Name: rsimy RP: 18150 Rank: 1006 Console: xbl Banned: false
+Name: twoddie21 RP: 18150 Rank: 1006 Console: xbl Banned: false
+Name: mmaxl RP: 18148 Rank: 1008 Console: xbl Banned: false
+Name: need a 3x RP: 18142 Rank: 1009 Console: xbl Banned: false
+Name: nl gl1tch RP: 18137 Rank: 1010 Console: xbl Banned: true
+Name: ball inspctr RP: 18119 Rank: 1011 Console: xbl Banned: false
+Name: zkayzn RP: 18109 Rank: 1012 Console: xbl Banned: false
+Name: ua vaikze RP: 18085 Rank: 1013 Console: xbl Banned: false
+Name: mayanrektu RP: 18077 Rank: 1014 Console: xbl Banned: false
+Name: itachiskg RP: 18075 Rank: 1015 Console: xbl Banned: true
+Name: weak cheekz RP: 18064 Rank: 1016 Console: xbl Banned: false
+Name: notkhrxnic RP: 18051 Rank: 1017 Console: xbl Banned: false
+Name: arctlz RP: 18043 Rank: 1018 Console: xbl Banned: false
+Name: pumpcans RP: 18008 Rank: 1019 Console: xbl Banned: true
+Name: taveonlit RP: 17995 Rank: 1020 Console: xbl Banned: true
+Name: zapak34 ttv RP: 17981 Rank: 1021 Console: xbl Banned: false
+Name: ffleex RP: 17974 Rank: 1022 Console: xbl Banned: true
+Name: crqzyss RP: 17970 Rank: 1023 Console: xbl Banned: false
+Name: ss lavish RP: 17968 Rank: 1024 Console: xbl Banned: false
+Name: durstlxscher RP: 17963 Rank: 1025 Console: xbl Banned: true
+Name: equency RP: 17949 Rank: 1026 Console: xbl Banned: false
+Name: kingtedddy RP: 17947 Rank: 1027 Console: xbl Banned: true
+Name: xim pred RP: 17939 Rank: 1028 Console: xbl Banned: true
+Name: kictz RP: 17920 Rank: 1029 Console: xbl Banned: false
+Name: customerserv420 RP: 17917 Rank: 1030 Console: xbl Banned: true
+Name: bel1al 22 RP: 17915 Rank: 1031 Console: xbl Banned: true
+Name: your own lad RP: 17898 Rank: 1032 Console: xbl Banned: false
+Name: haq wasiq RP: 17898 Rank: 1032 Console: xbl Banned: false
+Name: koiorfui RP: 17887 Rank: 1034 Console: xbl Banned: false
+Name: townns RP: 17876 Rank: 1035 Console: xbl Banned: false
+Name: cyteee RP: 17867 Rank: 1036 Console: xbl Banned: false
+Name: brisscoe RP: 17860 Rank: 1037 Console: xbl Banned: false
+Name: trustedi RP: 17835 Rank: 1038 Console: xbl Banned: false
+Name: jntmets RP: 17831 Rank: 1039 Console: xbl Banned: false
+Name: heaaavy RP: 17830 Rank: 1040 Console: xbl Banned: false
+Name: vrefting RP: 17822 Rank: 1041 Console: xbl Banned: false
+Name: dca big 11 RP: 17817 Rank: 1042 Console: xbl Banned: false
+Name: fourthdem RP: 17802 Rank: 1043 Console: xbl Banned: false
+Name: qw4e RP: 17797 Rank: 1044 Console: xbl Banned: false
+Name: lkenshix RP: 17794 Rank: 1045 Console: xbl Banned: false
+Name: empartial RP: 17793 Rank: 1046 Console: xbl Banned: false
+Name: zxironsidexz RP: 17792 Rank: 1047 Console: xbl Banned: false
+Name: infehst RP: 17789 Rank: 1048 Console: xbl Banned: false
+Name: dinosnaxx RP: 17787 Rank: 1049 Console: xbl Banned: false
+Name: bzt ibengom RP: 17781 Rank: 1050 Console: xbl Banned: true
+Name: bzuly RP: 17773 Rank: 1051 Console: xbl Banned: false
+Name: khodesepi RP: 17771 Rank: 1052 Console: xbl Banned: false
+Name: ttvacxd999 RP: 17765 Rank: 1053 Console: xbl Banned: false
+Name: zrm RP: 17765 Rank: 1053 Console: xbl Banned: false
+Name: darhy RP: 17763 Rank: 1055 Console: xbl Banned: false
+Name: itzleer RP: 17759 Rank: 1056 Console: xbl Banned: false
+Name: clawoxe RP: 17751 Rank: 1057 Console: xbl Banned: false
+Name: iitz blu RP: 17746 Rank: 1058 Console: xbl Banned: false
+Name: ll nilloc ll RP: 17739 Rank: 1059 Console: xbl Banned: false
+Name: rganta RP: 17736 Rank: 1060 Console: xbl Banned: false
+Name: bloxlighttv RP: 17725 Rank: 1061 Console: xbl Banned: true
+Name: arianeyuki RP: 17715 Rank: 1062 Console: xbl Banned: true
+Name: parkesss RP: 17711 Rank: 1063 Console: xbl Banned: false
+Name: suspend brad RP: 17708 Rank: 1064 Console: xbl Banned: false
+Name: nympthys RP: 17703 Rank: 1065 Console: xbl Banned: true
+Name: xertz oce RP: 17698 Rank: 1066 Console: xbl Banned: false
+Name: shuhuua RP: 17684 Rank: 1067 Console: xbl Banned: false
+Name: clutch ituna RP: 17674 Rank: 1068 Console: xbl Banned: false
+Name: disagreement hd RP: 17667 Rank: 1069 Console: xbl Banned: false
+Name: xsproson RP: 17661 Rank: 1070 Console: xbl Banned: false
+Name: wilson3d RP: 17657 Rank: 1071 Console: xbl Banned: false
+Name: huwezx RP: 17657 Rank: 1071 Console: xbl Banned: true
+Name: stantanag tv RP: 17648 Rank: 1073 Console: xbl Banned: false
+Name: qbel RP: 17641 Rank: 1074 Console: xbl Banned: false
+Name: mystic sabotage RP: 17640 Rank: 1075 Console: xbl Banned: false
+Name: sixenergy boy RP: 17639 Rank: 1076 Console: xbl Banned: true
+Name: asianluvva RP: 17623 Rank: 1077 Console: xbl Banned: false
+Name: aletoxicf RP: 17613 Rank: 1078 Console: xbl Banned: true
+Name: ispyke RP: 17610 Rank: 1079 Console: xbl Banned: false
+Name: nex kurama RP: 17602 Rank: 1080 Console: xbl Banned: true
+Name: lhoaxx RP: 17594 Rank: 1081 Console: xbl Banned: false
+Name: o jerryii RP: 17593 Rank: 1082 Console: xbl Banned: false
+Name: evo gingerr RP: 17577 Rank: 1083 Console: xbl Banned: false
+Name: zsavin RP: 17575 Rank: 1084 Console: xbl Banned: false
+Name: superrussianak RP: 17571 Rank: 1085 Console: xbl Banned: false
+Name: stillgd RP: 17558 Rank: 1086 Console: xbl Banned: false
+Name: crypto trix RP: 17557 Rank: 1087 Console: xbl Banned: true
+Name: ecs kezzho RP: 17557 Rank: 1087 Console: xbl Banned: false
+Name: salty griff RP: 17540 Rank: 1089 Console: xbl Banned: false
+Name: not ciair RP: 17537 Rank: 1090 Console: xbl Banned: false
+Name: n8ive boyy 2o7 RP: 17534 Rank: 1091 Console: xbl Banned: false
+Name: selinced RP: 17534 Rank: 1091 Console: xbl Banned: true
+Name: save griffin RP: 17523 Rank: 1093 Console: xbl Banned: false
+Name: ya sistas RP: 17512 Rank: 1094 Console: xbl Banned: false
+Name: dxcimxtion RP: 17510 Rank: 1095 Console: xbl Banned: false
+Name: dhzyre RP: 17504 Rank: 1096 Console: xbl Banned: false
+Name: talysium RP: 17498 Rank: 1097 Console: xbl Banned: false
+Name: exxtrasweat RP: 17491 Rank: 1098 Console: xbl Banned: false
+Name: murkgenesis RP: 17487 Rank: 1099 Console: xbl Banned: false
+Name: miarce RP: 17481 Rank: 1100 Console: xbl Banned: false
+Name: rbonzo RP: 17474 Rank: 1101 Console: xbl Banned: false
+Name: zadsqo RP: 17458 Rank: 1102 Console: xbl Banned: false
+Name: v0id akuma RP: 17452 Rank: 1103 Console: xbl Banned: true
+Name: itidockz RP: 17442 Rank: 1104 Console: xbl Banned: false
+Name: ruo youtube7 RP: 17437 Rank: 1105 Console: xbl Banned: false
+Name: cult45 tv RP: 17424 Rank: 1106 Console: xbl Banned: false
+Name: shhhmoveee RP: 17420 Rank: 1107 Console: xbl Banned: false
+Name: isg peptic RP: 17418 Rank: 1108 Console: xbl Banned: false
+Name: soldcapalot RP: 17416 Rank: 1109 Console: xbl Banned: true
+Name: goudadactyl RP: 17407 Rank: 1110 Console: xbl Banned: false
+Name: im neroh RP: 17404 Rank: 1111 Console: xbl Banned: false
+Name: rysekii RP: 17400 Rank: 1112 Console: xbl Banned: false
+Name: keeping rp RP: 17396 Rank: 1113 Console: xbl Banned: true
+Name: skua vl RP: 17380 Rank: 1114 Console: xbl Banned: true
+Name: xset arwen RP: 17371 Rank: 1115 Console: xbl Banned: true
+Name: buzybonkerz RP: 17370 Rank: 1116 Console: xbl Banned: false
+Name: neypahm RP: 17366 Rank: 1117 Console: xbl Banned: false
+Name: fatality rf RP: 17354 Rank: 1118 Console: xbl Banned: false
+Name: qhaitz RP: 17338 Rank: 1119 Console: xbl Banned: false
+Name: tylxrzz ttok RP: 17333 Rank: 1120 Console: xbl Banned: false
+Name: im farro RP: 17332 Rank: 1121 Console: xbl Banned: false
+Name: ping my bang RP: 17331 Rank: 1122 Console: xbl Banned: true
+Name: kafilthytv RP: 17320 Rank: 1123 Console: xbl Banned: false
+Name: deathprooftv RP: 17306 Rank: 1124 Console: xbl Banned: true
+Name: wprice2544 RP: 17266 Rank: 1125 Console: xbl Banned: false
+Name: chenoa49 RP: 17253 Rank: 1126 Console: xbl Banned: true
+Name: wxolars RP: 17227 Rank: 1127 Console: xbl Banned: false
+Name: wjams RP: 17225 Rank: 1128 Console: xbl Banned: false
+Name: pot of desires RP: 17225 Rank: 1128 Console: xbl Banned: true
+Name: williamovo RP: 17217 Rank: 1130 Console: xbl Banned: false
+Name: stkz scorch RP: 17212 Rank: 1131 Console: xbl Banned: false
+Name: swerve RP: 17208 Rank: 1132 Console: xbl Banned: false
+Name: lldoodaall RP: 17204 Rank: 1133 Console: xbl Banned: false
+Name: isg xryu RP: 17196 Rank: 1134 Console: xbl Banned: false
+Name: grimsleeper697 RP: 17192 Rank: 1135 Console: xbl Banned: true
+Name: xxmr khaozxx RP: 17163 Rank: 1136 Console: xbl Banned: true
+Name: jsxter RP: 17162 Rank: 1137 Console: xbl Banned: false
+Name: sourxa RP: 17155 Rank: 1138 Console: xbl Banned: false
+Name: xxms khaozxx RP: 17125 Rank: 1139 Console: xbl Banned: true
+Name: berts ii RP: 17120 Rank: 1140 Console: xbl Banned: false
+Name: maaag ii RP: 17107 Rank: 1141 Console: xbl Banned: false
+Name: oruia RP: 17107 Rank: 1141 Console: xbl Banned: false
+Name: arkcylo RP: 17100 Rank: 1143 Console: xbl Banned: false
+Name: i tedrx RP: 17098 Rank: 1144 Console: xbl Banned: false
+Name: sprrkz RP: 17098 Rank: 1144 Console: xbl Banned: true
+Name: bbrocks28 RP: 17094 Rank: 1146 Console: xbl Banned: false
+Name: hauntiful RP: 17093 Rank: 1147 Console: xbl Banned: false
+Name: sihmpl RP: 17091 Rank: 1148 Console: xbl Banned: true
+Name: itzdawgs RP: 17083 Rank: 1149 Console: xbl Banned: false
+Name: xr hottstuff RP: 17075 Rank: 1150 Console: xbl Banned: false
+Name: ping me r9 RP: 17054 Rank: 1151 Console: xbl Banned: true
+Name: bertpwnisher RP: 17052 Rank: 1152 Console: xbl Banned: true
+Name: evo kurro RP: 17049 Rank: 1153 Console: xbl Banned: false
+Name: royal dark1340 RP: 17030 Rank: 1154 Console: xbl Banned: true
+Name: saint alto RP: 17011 Rank: 1155 Console: xbl Banned: false
+Name: evo asumattv RP: 17005 Rank: 1156 Console: xbl Banned: false
+Name: vkaot RP: 16992 Rank: 1157 Console: xbl Banned: false
+Name: skyendhel RP: 16989 Rank: 1158 Console: xbl Banned: true
+Name: mangeydingus RP: 16984 Rank: 1159 Console: xbl Banned: false
+Name: omg thief RP: 16978 Rank: 1160 Console: xbl Banned: true
+Name: jashido RP: 16965 Rank: 1161 Console: xbl Banned: false
+Name: waijr RP: 16953 Rank: 1162 Console: xbl Banned: true
+Name: xilliyzzzzzz RP: 16951 Rank: 1163 Console: xbl Banned: false
+Name: adrianclapzu RP: 16948 Rank: 1164 Console: xbl Banned: true
+Name: feartinmantv RP: 16932 Rank: 1165 Console: xbl Banned: false
+Name: im impressy RP: 16914 Rank: 1166 Console: xbl Banned: false
+Name: assistaimp RP: 16895 Rank: 1167 Console: xbl Banned: false
+Name: ifragtaal RP: 16894 Rank: 1168 Console: xbl Banned: true
+Name: r3crucht RP: 16886 Rank: 1169 Console: xbl Banned: true
+Name: e7ours RP: 16883 Rank: 1170 Console: xbl Banned: true
+Name: rnk aspect2109 RP: 16880 Rank: 1171 Console: xbl Banned: true
+Name: icrunchs RP: 16875 Rank: 1172 Console: xbl Banned: true
+Name: spoogsy RP: 16867 Rank: 1173 Console: xbl Banned: false
+Name: sick fa17h RP: 16865 Rank: 1174 Console: xbl Banned: false
+Name: collga RP: 16854 Rank: 1175 Console: xbl Banned: false
+Name: xxfrashxx RP: 16826 Rank: 1176 Console: xbl Banned: true
+Name: senpaidluffy RP: 16821 Rank: 1177 Console: xbl Banned: true
+Name: rel1q RP: 16819 Rank: 1178 Console: xbl Banned: false
+Name: ilwit RP: 16817 Rank: 1179 Console: xbl Banned: false
+Name: mx darknight RP: 16815 Rank: 1180 Console: xbl Banned: true
+Name: apollo ilii RP: 16805 Rank: 1181 Console: xbl Banned: false
+Name: bboy10beast RP: 16796 Rank: 1182 Console: xbl Banned: false
+Name: dr walmarts RP: 16778 Rank: 1183 Console: xbl Banned: false
+Name: traingohallo RP: 16749 Rank: 1184 Console: xbl Banned: true
+Name: elvenaxd7078 RP: 16746 Rank: 1185 Console: xbl Banned: true
+Name: grxvitylift1 RP: 16730 Rank: 1186 Console: xbl Banned: true
+Name: propnation9174 RP: 16727 Rank: 1187 Console: xbl Banned: true
+Name: ttv priime RP: 16722 Rank: 1188 Console: xbl Banned: true
+Name: x dlini RP: 16720 Rank: 1189 Console: xbl Banned: false
+Name: vvsou RP: 16719 Rank: 1190 Console: xbl Banned: true
+Name: i ohjuke i RP: 16717 Rank: 1191 Console: xbl Banned: false
+Name: luxi4z RP: 16714 Rank: 1192 Console: xbl Banned: false
+Name: c nani 7 RP: 16709 Rank: 1193 Console: xbl Banned: false
+Name: yrrxsty RP: 16703 Rank: 1194 Console: xbl Banned: false
+Name: itzfiore RP: 16702 Rank: 1195 Console: xbl Banned: false
+Name: botna faze RP: 16698 Rank: 1196 Console: xbl Banned: true
+Name: glueba RP: 16694 Rank: 1197 Console: xbl Banned: false
+Name: muflchan RP: 16687 Rank: 1198 Console: xbl Banned: false
+Name: bs enfermiclon RP: 16685 Rank: 1199 Console: xbl Banned: true
+Name: computer parts RP: 16684 Rank: 1200 Console: xbl Banned: false
+Name: flux duccky RP: 16678 Rank: 1201 Console: xbl Banned: false
+Name: rondelle2papi RP: 16677 Rank: 1202 Console: xbl Banned: false
+Name: idrop8odies RP: 16666 Rank: 1203 Console: xbl Banned: true
+Name: tidesrain RP: 16666 Rank: 1203 Console: xbl Banned: false
+Name: aldocraft08 RP: 16659 Rank: 1205 Console: xbl Banned: true
+Name: ivlyfe RP: 16655 Rank: 1206 Console: xbl Banned: false
+Name: nottapstrafe RP: 16627 Rank: 1207 Console: xbl Banned: true
+Name: xlilfredson RP: 16623 Rank: 1208 Console: xbl Banned: false
+Name: masonthegoat289 RP: 16615 Rank: 1209 Console: xbl Banned: false
+Name: fy74 RP: 16613 Rank: 1210 Console: xbl Banned: false
+Name: jimbocracy RP: 16609 Rank: 1211 Console: xbl Banned: false
+Name: iistealkillz RP: 16582 Rank: 1212 Console: xbl Banned: true
+Name: hotcheeto5791 RP: 16580 Rank: 1213 Console: xbl Banned: false
+Name: xdinomitrix RP: 16568 Rank: 1214 Console: xbl Banned: false
+Name: ovr grimm RP: 16531 Rank: 1215 Console: xbl Banned: false
+Name: goobuh RP: 16530 Rank: 1216 Console: xbl Banned: false
+Name: luxury lune RP: 16529 Rank: 1217 Console: xbl Banned: false
+Name: wxxdy1x RP: 16523 Rank: 1218 Console: xbl Banned: true
+Name: pioapvt RP: 16504 Rank: 1219 Console: xbl Banned: true
+Name: mountaindew2168 RP: 16504 Rank: 1219 Console: xbl Banned: false
+Name: trevimo RP: 16503 Rank: 1221 Console: xbl Banned: false
+Name: ok 240 w RP: 16501 Rank: 1222 Console: xbl Banned: false
+Name: lilpeep twitch RP: 16501 Rank: 1222 Console: xbl Banned: true
+Name: qeztz RP: 16496 Rank: 1224 Console: xbl Banned: true
+Name: xt4 skittles RP: 16492 Rank: 1225 Console: xbl Banned: false
+Name: utaldotp RP: 16486 Rank: 1226 Console: xbl Banned: false
+Name: buddhajess RP: 16478 Rank: 1227 Console: xbl Banned: false
+Name: qlyrical RP: 16477 Rank: 1228 Console: xbl Banned: false
+Name: e a a a r l RP: 16473 Rank: 1229 Console: xbl Banned: false
+Name: xnicatwin RP: 16461 Rank: 1230 Console: xbl Banned: false
+Name: rcalypsi RP: 16460 Rank: 1231 Console: xbl Banned: true
+Name: vasate RP: 16443 Rank: 1232 Console: xbl Banned: false
+Name: tiredcheems RP: 16435 Rank: 1233 Console: xbl Banned: true
+Name: l mr monday l RP: 16412 Rank: 1234 Console: xbl Banned: false
+Name: oburio RP: 16407 Rank: 1235 Console: xbl Banned: false
+Name: vanishheart RP: 16399 Rank: 1236 Console: xbl Banned: true
+Name: jeivzz RP: 16397 Rank: 1237 Console: xbl Banned: false
+Name: my ult RP: 16394 Rank: 1238 Console: xbl Banned: false
+Name: r2shades RP: 16386 Rank: 1239 Console: xbl Banned: false
+Name: mnk fatboy RP: 16378 Rank: 1240 Console: xbl Banned: false
+Name: og mane ii RP: 16377 Rank: 1241 Console: xbl Banned: false
+Name: aspicyonion RP: 16372 Rank: 1242 Console: xbl Banned: false
+Name: bruh54742 RP: 16356 Rank: 1243 Console: xbl Banned: true
+Name: aarwah RP: 16354 Rank: 1244 Console: xbl Banned: false
+Name: ngx d a t RP: 16331 Rank: 1245 Console: xbl Banned: false
+Name: buuh ttv RP: 16327 Rank: 1246 Console: xbl Banned: false
+Name: fb pancakes RP: 16309 Rank: 1247 Console: xbl Banned: false
+Name: kusshz RP: 16306 Rank: 1248 Console: xbl Banned: true
+Name: dss greygoat36 RP: 16296 Rank: 1249 Console: xbl Banned: false
+Name: piouds RP: 16281 Rank: 1250 Console: xbl Banned: false
+Name: favht RP: 16279 Rank: 1251 Console: xbl Banned: false
+Name: dpxr RP: 16278 Rank: 1252 Console: xbl Banned: false
+Name: ttv srgtjohnson RP: 16250 Rank: 1253 Console: xbl Banned: false
+Name: otsugo RP: 16249 Rank: 1254 Console: xbl Banned: false
+Name: avant sf RP: 16247 Rank: 1255 Console: xbl Banned: false
+Name: princesszlft RP: 16247 Rank: 1255 Console: xbl Banned: false
+Name: baccwood szn RP: 16240 Rank: 1257 Console: xbl Banned: true
+Name: buz tryhard RP: 16232 Rank: 1258 Console: xbl Banned: false
+Name: pewpew imurderu RP: 16228 Rank: 1259 Console: xbl Banned: false
+Name: roots plays RP: 16223 Rank: 1260 Console: xbl Banned: false
+Name: divfe RP: 16213 Rank: 1261 Console: xbl Banned: false
+Name: africankid21 RP: 16211 Rank: 1262 Console: xbl Banned: true
+Name: proxy rf RP: 16210 Rank: 1263 Console: xbl Banned: false
+Name: flux hydrx RP: 16202 Rank: 1264 Console: xbl Banned: false
+Name: buz megaboy RP: 16198 Rank: 1265 Console: xbl Banned: false
+Name: kaaotiikk RP: 16188 Rank: 1266 Console: xbl Banned: false
+Name: valueuy RP: 16185 Rank: 1267 Console: xbl Banned: true
+Name: q strafing RP: 16184 Rank: 1268 Console: xbl Banned: false
+Name: wakup drank RP: 16184 Rank: 1268 Console: xbl Banned: false
+Name: ze3kromtv RP: 16180 Rank: 1270 Console: xbl Banned: false
+Name: ex claps 7061 RP: 16173 Rank: 1271 Console: xbl Banned: false
+Name: figzzs RP: 16170 Rank: 1272 Console: xbl Banned: false
+Name: irek x monies RP: 16156 Rank: 1273 Console: xbl Banned: false
+Name: chqer RP: 16143 Rank: 1274 Console: xbl Banned: false
+Name: nrgfazee RP: 16140 Rank: 1275 Console: xbl Banned: false
+Name: liveraia RP: 16139 Rank: 1276 Console: xbl Banned: false
+Name: fearreizu RP: 16133 Rank: 1277 Console: xbl Banned: false
+Name: tblits352 RP: 16125 Rank: 1278 Console: xbl Banned: false
+Name: asests on tt RP: 16119 Rank: 1279 Console: xbl Banned: true
+Name: xhico RP: 16111 Rank: 1280 Console: xbl Banned: false
+Name: n9x panzik RP: 16111 Rank: 1280 Console: xbl Banned: false
+Name: fpsklock RP: 16110 Rank: 1282 Console: xbl Banned: false
+Name: uncie dez RP: 16109 Rank: 1283 Console: xbl Banned: false
+Name: trf frendyrk RP: 16107 Rank: 1284 Console: xbl Banned: true
+Name: xcatlov3r RP: 16107 Rank: 1284 Console: xbl Banned: false
+Name: hotdoookiez RP: 16099 Rank: 1286 Console: xbl Banned: true
+Name: snowrider6lj RP: 16099 Rank: 1286 Console: xbl Banned: false
+Name: holdenpupttv RP: 16092 Rank: 1288 Console: xbl Banned: false
+Name: xmalerva RP: 16091 Rank: 1289 Console: xbl Banned: false
+Name: sauecy RP: 16083 Rank: 1290 Console: xbl Banned: false
+Name: mayon1242 RP: 16080 Rank: 1291 Console: xbl Banned: false
+Name: nafburger RP: 16077 Rank: 1292 Console: xbl Banned: false
+Name: crayz evan RP: 16077 Rank: 1292 Console: xbl Banned: false
+Name: killer gamer363 RP: 16076 Rank: 1294 Console: xbl Banned: false
+Name: mortydeiia RP: 16060 Rank: 1295 Console: xbl Banned: false
+Name: viceifyy RP: 16058 Rank: 1296 Console: xbl Banned: false
+Name: wood pacc RP: 16053 Rank: 1297 Console: xbl Banned: false
+Name: justsebsttv RP: 16053 Rank: 1297 Console: xbl Banned: false
+Name: ag ilight RP: 16053 Rank: 1297 Console: xbl Banned: false
+Name: wizard nob RP: 16040 Rank: 1300 Console: xbl Banned: false
+Name: ag ilight RP: 16053 Rank: 1301 Console: xbl Banned: false
+Name: wizard nob RP: 16040 Rank: 1302 Console: xbl Banned: false
+Name: ryopian RP: 16039 Rank: 1303 Console: xbl Banned: false
+Name: dayenaa RP: 16027 Rank: 1304 Console: xbl Banned: false
+Name: n9x zlootinho RP: 16020 Rank: 1305 Console: xbl Banned: false
+Name: kingblits RP: 16014 Rank: 1306 Console: xbl Banned: false
+Name: beyond trickz RP: 16012 Rank: 1307 Console: xbl Banned: false
+Name: rob the god7134 RP: 16002 Rank: 1308 Console: xbl Banned: false
+Name: hawthjs10rocks RP: 16000 Rank: 1309 Console: xbl Banned: false
+Name: jus got sold RP: 15998 Rank: 1310 Console: xbl Banned: false
+Name: jb45ontt RP: 15996 Rank: 1311 Console: xbl Banned: true
+Name: keplerisgood RP: 15994 Rank: 1312 Console: xbl Banned: true
+Name: phuunky RP: 15989 Rank: 1313 Console: xbl Banned: false
+Name: ll josh li RP: 15987 Rank: 1314 Console: xbl Banned: false
+Name: boostdclipse RP: 15978 Rank: 1315 Console: xbl Banned: false
+Name: lf rluucki RP: 15976 Rank: 1316 Console: xbl Banned: false
+Name: sysonoro RP: 15954 Rank: 1317 Console: xbl Banned: false
+Name: muertei RP: 15953 Rank: 1318 Console: xbl Banned: false
+Name: whiriybird RP: 15949 Rank: 1319 Console: xbl Banned: false
+Name: ixxy27 RP: 15941 Rank: 1320 Console: xbl Banned: false
+Name: gborten30988 RP: 15941 Rank: 1320 Console: xbl Banned: true
+Name: exotac RP: 15931 Rank: 1322 Console: xbl Banned: true
+Name: rebornrainyt RP: 15928 Rank: 1323 Console: xbl Banned: false
+Name: kakip1aim RP: 15923 Rank: 1324 Console: xbl Banned: false
+Name: ruhnrs RP: 15921 Rank: 1325 Console: xbl Banned: true
+Name: xitsnojokex RP: 15918 Rank: 1326 Console: xbl Banned: false
+Name: cheater on60 RP: 15917 Rank: 1327 Console: xbl Banned: false
+Name: breastfed6975 RP: 15917 Rank: 1327 Console: xbl Banned: false
+Name: stud legacy RP: 15903 Rank: 1329 Console: xbl Banned: false
+Name: gxdimer RP: 15901 Rank: 1330 Console: xbl Banned: true
+Name: itekkyo RP: 15898 Rank: 1331 Console: xbl Banned: false
+Name: itssbellaquinn RP: 15895 Rank: 1332 Console: xbl Banned: false
+Name: bunti009 RP: 15895 Rank: 1332 Console: xbl Banned: false
+Name: l am holic RP: 15892 Rank: 1334 Console: xbl Banned: false
+Name: vip kyrie RP: 15888 Rank: 1335 Console: xbl Banned: false
+Name: ke2shiesty RP: 15887 Rank: 1336 Console: xbl Banned: false
+Name: lost ekkos RP: 15879 Rank: 1337 Console: xbl Banned: true
+Name: sstewbie RP: 15876 Rank: 1338 Console: xbl Banned: false
+Name: m4milli RP: 15874 Rank: 1339 Console: xbl Banned: false
+Name: rcults RP: 15871 Rank: 1340 Console: xbl Banned: false
+Name: killerbeee RP: 15869 Rank: 1341 Console: xbl Banned: false
+Name: liamgg5165 RP: 15869 Rank: 1341 Console: xbl Banned: false
+Name: rkuzai RP: 15860 Rank: 1343 Console: xbl Banned: true
+Name: rr anubis RP: 15859 Rank: 1344 Console: xbl Banned: false
+Name: the octane99 RP: 15843 Rank: 1345 Console: xbl Banned: true
+Name: daiyzen RP: 15840 Rank: 1346 Console: xbl Banned: true
+Name: adawg8889 RP: 15838 Rank: 1347 Console: xbl Banned: false
+Name: monkeyhunter162 RP: 15837 Rank: 1348 Console: xbl Banned: false
+Name: jayjankzz RP: 15836 Rank: 1349 Console: xbl Banned: false
+Name: ahmity7691 RP: 15833 Rank: 1350 Console: xbl Banned: false
+Name: prettyboyamm RP: 15830 Rank: 1351 Console: xbl Banned: true
+Name: ylxckk RP: 15824 Rank: 1352 Console: xbl Banned: false
+Name: hklad RP: 15820 Rank: 1353 Console: xbl Banned: false
+Name: dofnr RP: 15819 Rank: 1354 Console: xbl Banned: true
+Name: goldsmxke RP: 15814 Rank: 1355 Console: xbl Banned: false
+Name: akiru ren RP: 15810 Rank: 1356 Console: xbl Banned: true
+Name: azttc RP: 15808 Rank: 1357 Console: xbl Banned: false
+Name: horizon8235 RP: 15806 Rank: 1358 Console: xbl Banned: false
+Name: godzxdmarcus RP: 15800 Rank: 1359 Console: xbl Banned: false
+Name: sog lxffy RP: 15799 Rank: 1360 Console: xbl Banned: false
+Name: inrbest RP: 15792 Rank: 1361 Console: xbl Banned: false
+Name: simply skyz RP: 15786 Rank: 1362 Console: xbl Banned: false
+Name: demon6o4 RP: 15776 Rank: 1363 Console: xbl Banned: false
+Name: ak7k RP: 15769 Rank: 1364 Console: xbl Banned: false
+Name: terdfish69 RP: 15763 Rank: 1365 Console: xbl Banned: false
+Name: aiumin RP: 15760 Rank: 1366 Console: xbl Banned: false
+Name: newcastle4544 RP: 15757 Rank: 1367 Console: xbl Banned: false
+Name: yfrxsty RP: 15755 Rank: 1368 Console: xbl Banned: false
+Name: xspaghedx RP: 15753 Rank: 1369 Console: xbl Banned: false
+Name: elliot2001 RP: 15752 Rank: 1370 Console: xbl Banned: false
+Name: chos3n6 RP: 15748 Rank: 1371 Console: xbl Banned: false
+Name: unit exotic RP: 15745 Rank: 1372 Console: xbl Banned: true
+Name: tallishtie1 RP: 15736 Rank: 1373 Console: xbl Banned: false
+Name: soy estarxssa RP: 15731 Rank: 1374 Console: xbl Banned: false
+Name: forbidden rp RP: 15729 Rank: 1375 Console: xbl Banned: false
+Name: seclusve RP: 15725 Rank: 1376 Console: xbl Banned: false
+Name: w rizz jrno RP: 15716 Rank: 1377 Console: xbl Banned: false
+Name: koblexi RP: 15715 Rank: 1378 Console: xbl Banned: false
+Name: gtd noz RP: 15713 Rank: 1379 Console: xbl Banned: false
+Name: inco0gnito0 RP: 15709 Rank: 1380 Console: xbl Banned: false
+Name: soldierboy225 RP: 15708 Rank: 1381 Console: xbl Banned: false
+Name: ivergit RP: 15701 Rank: 1382 Console: xbl Banned: false
+Name: ag jozapower RP: 15701 Rank: 1382 Console: xbl Banned: false
+Name: iivirus p RP: 15700 Rank: 1384 Console: xbl Banned: false
+Name: expansiiion RP: 15695 Rank: 1385 Console: xbl Banned: false
+Name: mrmarshal19 RP: 15692 Rank: 1386 Console: xbl Banned: false
+Name: js joniii RP: 15686 Rank: 1387 Console: xbl Banned: true
+Name: couttzerafps RP: 15685 Rank: 1388 Console: xbl Banned: false
+Name: bhattiman555 RP: 15682 Rank: 1389 Console: xbl Banned: false
+Name: griefer8523 RP: 15668 Rank: 1390 Console: xbl Banned: true
+Name: zetziii RP: 15656 Rank: 1391 Console: xbl Banned: false
+Name: nocturnal xxvii RP: 15656 Rank: 1391 Console: xbl Banned: false
+Name: zxhki RP: 15653 Rank: 1393 Console: xbl Banned: false
+Name: cheif smallfoot RP: 15650 Rank: 1394 Console: xbl Banned: false
+Name: enfractual RP: 15650 Rank: 1394 Console: xbl Banned: false
+Name: jayrinker RP: 15646 Rank: 1396 Console: xbl Banned: false
+Name: pluto season RP: 15639 Rank: 1397 Console: xbl Banned: false
+Name: just axei RP: 15638 Rank: 1398 Console: xbl Banned: false
+Name: madfriendlyfire RP: 15635 Rank: 1399 Console: xbl Banned: true
+Name: miamor1116 RP: 15632 Rank: 1400 Console: xbl Banned: false
+Name: xestful RP: 15630 Rank: 1401 Console: xbl Banned: false
+Name: apexmariottv RP: 15629 Rank: 1402 Console: xbl Banned: false
+Name: beat simba RP: 15629 Rank: 1402 Console: xbl Banned: true
+Name: xxt00 s10wxx RP: 15624 Rank: 1404 Console: xbl Banned: false
+Name: good wiils RP: 15623 Rank: 1405 Console: xbl Banned: true
+Name: legit x drftx RP: 15619 Rank: 1406 Console: xbl Banned: false
+Name: dagreekmamba RP: 15616 Rank: 1407 Console: xbl Banned: false
+Name: caenusz RP: 15614 Rank: 1408 Console: xbl Banned: false
+Name: murphynk RP: 15609 Rank: 1409 Console: xbl Banned: false
+Name: qxskli RP: 15606 Rank: 1410 Console: xbl Banned: false
+Name: michico999 RP: 15605 Rank: 1411 Console: xbl Banned: false
+Name: madlezbian RP: 15603 Rank: 1412 Console: xbl Banned: false
+Name: ttv de7deye RP: 15588 Rank: 1413 Console: xbl Banned: false
+Name: frixzey RP: 15588 Rank: 1413 Console: xbl Banned: true
+Name: xxreaperxx1271 RP: 15587 Rank: 1415 Console: xbl Banned: false
+Name: iistingray RP: 15577 Rank: 1416 Console: xbl Banned: false
+Name: schisam RP: 15575 Rank: 1417 Console: xbl Banned: false
+Name: xosfi RP: 15571 Rank: 1418 Console: xbl Banned: false
+Name: bad fang ttv RP: 15569 Rank: 1419 Console: xbl Banned: false
+Name: puppycatxx7724 RP: 15567 Rank: 1420 Console: xbl Banned: false
+Name: baruchpapi RP: 15563 Rank: 1421 Console: xbl Banned: true
+Name: joas slaps RP: 15561 Rank: 1422 Console: xbl Banned: false
+Name: xjflu RP: 15556 Rank: 1423 Console: xbl Banned: true
+Name: themildgamer RP: 15555 Rank: 1424 Console: xbl Banned: false
+Name: tikibob ttv RP: 15548 Rank: 1425 Console: xbl Banned: false
+Name: ta airchutoy RP: 15547 Rank: 1426 Console: xbl Banned: true
+Name: tayk n dubz RP: 15546 Rank: 1427 Console: xbl Banned: false
+Name: omaetgar RP: 15541 Rank: 1428 Console: xbl Banned: false
+Name: htg carti RP: 15534 Rank: 1429 Console: xbl Banned: false
+Name: s3nsei4 RP: 15534 Rank: 1429 Console: xbl Banned: false
+Name: th3walkinturd RP: 15533 Rank: 1431 Console: xbl Banned: false
+Name: xog ryzex RP: 15533 Rank: 1431 Console: xbl Banned: true
+Name: rnk dezign RP: 15533 Rank: 1431 Console: xbl Banned: false
+Name: beans8267 RP: 15531 Rank: 1434 Console: xbl Banned: false
+Name: ojarabattv RP: 15531 Rank: 1434 Console: xbl Banned: false
+Name: ziisko 7 RP: 15530 Rank: 1436 Console: xbl Banned: false
+Name: kami kugetsu RP: 15528 Rank: 1437 Console: xbl Banned: false
+Name: jprocher RP: 15520 Rank: 1438 Console: xbl Banned: false
+Name: xonxvi RP: 15518 Rank: 1439 Console: xbl Banned: false
+Name: mastervinnycmbr RP: 15517 Rank: 1440 Console: xbl Banned: false
+Name: kola ong RP: 15515 Rank: 1441 Console: xbl Banned: false
+Name: creatxvez RP: 15515 Rank: 1441 Console: xbl Banned: false
+Name: bacahh RP: 15514 Rank: 1443 Console: xbl Banned: false
+Name: xkeszy RP: 15513 Rank: 1444 Console: xbl Banned: false
+Name: ruziik RP: 15510 Rank: 1445 Console: xbl Banned: false
+Name: griefofkings RP: 15508 Rank: 1446 Console: xbl Banned: false
+Name: ethicsi RP: 15501 Rank: 1447 Console: xbl Banned: true
+Name: vkap RP: 15501 Rank: 1447 Console: xbl Banned: false
+Name: king krxnos RP: 15499 Rank: 1449 Console: xbl Banned: false
+Name: jonnyfowlttv RP: 15496 Rank: 1450 Console: xbl Banned: false
+Name: go griff go RP: 15495 Rank: 1451 Console: xbl Banned: false
+Name: chas1ng cloud RP: 15494 Rank: 1452 Console: xbl Banned: false
+Name: rostikbad1996 RP: 15493 Rank: 1453 Console: xbl Banned: false
+Name: jase jazz RP: 15492 Rank: 1454 Console: xbl Banned: false
+Name: oppcinco RP: 15491 Rank: 1455 Console: xbl Banned: false
+Name: daopz69 RP: 15491 Rank: 1455 Console: xbl Banned: true
+Name: sxrrounded RP: 15490 Rank: 1457 Console: xbl Banned: false
+Name: o zayahh RP: 15487 Rank: 1458 Console: xbl Banned: false
+Name: inickflix RP: 15487 Rank: 1458 Console: xbl Banned: false
+Name: rezz ryzom RP: 15485 Rank: 1460 Console: xbl Banned: false
+Name: iphelon RP: 15484 Rank: 1461 Console: xbl Banned: false
+Name: karmasxyy RP: 15482 Rank: 1462 Console: xbl Banned: true
+Name: xytella RP: 15482 Rank: 1462 Console: xbl Banned: false
+Name: gutsea RP: 15476 Rank: 1464 Console: xbl Banned: false
+Name: rlattiamatto RP: 15474 Rank: 1465 Console: xbl Banned: false
+Name: nagi on 60hz RP: 15469 Rank: 1466 Console: xbl Banned: false
+Name: lindyyyyyyy RP: 15468 Rank: 1467 Console: xbl Banned: true
+Name: qhounds RP: 15467 Rank: 1468 Console: xbl Banned: true
+Name: dirta rice RP: 15467 Rank: 1468 Console: xbl Banned: false
+Name: life1228 RP: 15464 Rank: 1470 Console: xbl Banned: false
+Name: scrubs son RP: 15464 Rank: 1470 Console: xbl Banned: false
+Name: kawai josei RP: 15464 Rank: 1470 Console: xbl Banned: true
+Name: cowrds RP: 15464 Rank: 1470 Console: xbl Banned: false
+Name: sbleaf434 RP: 15460 Rank: 1474 Console: xbl Banned: true
+Name: snipeshowx RP: 15459 Rank: 1475 Console: xbl Banned: false
+Name: v delo v RP: 15458 Rank: 1476 Console: xbl Banned: false
+Name: pryzzyy RP: 15458 Rank: 1476 Console: xbl Banned: false
+Name: sleasez RP: 15455 Rank: 1478 Console: xbl Banned: true
+Name: patenostre RP: 15455 Rank: 1478 Console: xbl Banned: false
+Name: ohtunaa RP: 15452 Rank: 1480 Console: xbl Banned: false
+Name: vibez2saucii RP: 15450 Rank: 1481 Console: xbl Banned: false
+Name: bazerk oz RP: 15449 Rank: 1482 Console: xbl Banned: false
+Name: the sweaty serb RP: 15449 Rank: 1482 Console: xbl Banned: false
+Name: fatal fl0 RP: 15447 Rank: 1484 Console: xbl Banned: false
+Name: triumphantz RP: 15444 Rank: 1485 Console: xbl Banned: false
+Name: umexy RP: 15444 Rank: 1485 Console: xbl Banned: false
+Name: tengiiiii RP: 15444 Rank: 1485 Console: xbl Banned: false
+Name: hangar18 sb RP: 15443 Rank: 1488 Console: xbl Banned: false
+Name: xkaltv RP: 15442 Rank: 1489 Console: xbl Banned: false
+Name: trashtoy9273 RP: 15441 Rank: 1490 Console: xbl Banned: false
+Name: flicks ili RP: 15441 Rank: 1490 Console: xbl Banned: false
+Name: jaiibate RP: 15437 Rank: 1492 Console: xbl Banned: false
+Name: ritzy6072 RP: 15436 Rank: 1493 Console: xbl Banned: false
+Name: caps lll RP: 15435 Rank: 1494 Console: xbl Banned: false
+Name: virulented RP: 15434 Rank: 1495 Console: xbl Banned: true
+Name: ghosterunner RP: 15434 Rank: 1495 Console: xbl Banned: false
+Name: kaaaamo RP: 15433 Rank: 1497 Console: xbl Banned: false
+Name: punchbob 2535 RP: 15432 Rank: 1498 Console: xbl Banned: false
+Name: hoodtheblackman RP: 15432 Rank: 1498 Console: xbl Banned: false
+Name: xxhadezzzzxx RP: 15429 Rank: 1500 Console: xbl Banned: true
+Name: jabroni5907 RP: 15429 Rank: 1501 Console: xbl Banned: false
+Name: ca9s RP: 15427 Rank: 1502 Console: xbl Banned: false
+Name: tranz echo RP: 15426 Rank: 1503 Console: xbl Banned: false
+Name: sweatiiiyeti RP: 15420 Rank: 1504 Console: xbl Banned: false
+Name: frisk5652 RP: 15416 Rank: 1505 Console: xbl Banned: false
+Name: king mclovin05 RP: 15414 Rank: 1506 Console: xbl Banned: false
+Name: big dog diz RP: 15411 Rank: 1507 Console: xbl Banned: false
+Name: confined RP: 15411 Rank: 1507 Console: xbl Banned: false
+Name: vkryptic4 RP: 15408 Rank: 1509 Console: xbl Banned: false
+Name: iiioozy RP: 15407 Rank: 1510 Console: xbl Banned: true
+Name: enx kakashi RP: 15406 Rank: 1511 Console: xbl Banned: false
+Name: syaqe RP: 15406 Rank: 1511 Console: xbl Banned: false
+Name: katqr RP: 15404 Rank: 1513 Console: xbl Banned: false
+Name: gccdmourning RP: 15404 Rank: 1513 Console: xbl Banned: false
+Name: thyzerotwo RP: 15399 Rank: 1515 Console: xbl Banned: false
+Name: heart x oni RP: 15398 Rank: 1516 Console: xbl Banned: false
+Name: logic shylo RP: 15398 Rank: 1516 Console: xbl Banned: false
+Name: dnb synical RP: 15397 Rank: 1518 Console: xbl Banned: true
+Name: lkemo 2vc RP: 15397 Rank: 1518 Console: xbl Banned: true
+Name: corneliaxo RP: 15395 Rank: 1520 Console: xbl Banned: false
+Name: llemonsalt RP: 15394 Rank: 1521 Console: xbl Banned: false
+Name: ttc crylix RP: 15393 Rank: 1522 Console: xbl Banned: false
+Name: rifle ix RP: 15392 Rank: 1523 Console: xbl Banned: false
+Name: imperialskel RP: 15392 Rank: 1523 Console: xbl Banned: false
+Name: dubs r99 RP: 15390 Rank: 1525 Console: xbl Banned: false
+Name: iq teeko RP: 15389 Rank: 1526 Console: xbl Banned: false
+Name: k45hhin RP: 15389 Rank: 1526 Console: xbl Banned: false
+Name: beptzi RP: 15387 Rank: 1528 Console: xbl Banned: false
+Name: liqcr ii RP: 15384 Rank: 1529 Console: xbl Banned: false
+Name: royalabyss2k RP: 15383 Rank: 1530 Console: xbl Banned: true
+Name: drummer aus RP: 15383 Rank: 1530 Console: xbl Banned: false
+Name: hyzo bluejay RP: 15381 Rank: 1532 Console: xbl Banned: false
+Name: sealfisdad RP: 15380 Rank: 1533 Console: xbl Banned: true
+Name: awar416 RP: 15380 Rank: 1533 Console: xbl Banned: false
+Name: jus dananas176 RP: 15380 Rank: 1533 Console: xbl Banned: false
+Name: bacacho mx RP: 15378 Rank: 1536 Console: xbl Banned: true
+Name: flipzify RP: 15378 Rank: 1536 Console: xbl Banned: false
+Name: ttv ssjtufa RP: 15377 Rank: 1538 Console: xbl Banned: false
+Name: dkdv slapz RP: 15377 Rank: 1538 Console: xbl Banned: false
+Name: lily0gapants RP: 15374 Rank: 1540 Console: xbl Banned: false
+Name: jprym RP: 15372 Rank: 1541 Console: xbl Banned: false
+Name: onesakanayt RP: 15371 Rank: 1542 Console: xbl Banned: false
+Name: arminhammer619 RP: 15367 Rank: 1543 Console: xbl Banned: false
+Name: xkillaholic RP: 15366 Rank: 1544 Console: xbl Banned: false
+Name: mr ferxu RP: 15362 Rank: 1545 Console: xbl Banned: false
+Name: kilowrt RP: 15359 Rank: 1546 Console: xbl Banned: false
+Name: gimmiemustard RP: 15357 Rank: 1547 Console: xbl Banned: false
+Name: mommy diabla RP: 15357 Rank: 1547 Console: xbl Banned: false
+Name: call twizzy RP: 15356 Rank: 1549 Console: xbl Banned: false
+Name: def iagging RP: 15355 Rank: 1550 Console: xbl Banned: false
+Name: i am deepstroke RP: 15354 Rank: 1551 Console: xbl Banned: false
+Name: my kp runs RP: 15352 Rank: 1552 Console: xbl Banned: false
+Name: god lac RP: 15350 Rank: 1553 Console: xbl Banned: false
+Name: xmika3939 RP: 15349 Rank: 1554 Console: xbl Banned: false
+Name: n9x skiloo RP: 15348 Rank: 1555 Console: xbl Banned: false
+Name: sky1 sucre76 RP: 15345 Rank: 1556 Console: xbl Banned: false
+Name: dismak5121 RP: 15344 Rank: 1557 Console: xbl Banned: false
+Name: ghosted4103 RP: 15344 Rank: 1557 Console: xbl Banned: false
+Name: hsd skynet RP: 15344 Rank: 1557 Console: xbl Banned: true
+Name: last top g RP: 15344 Rank: 1557 Console: xbl Banned: false
+Name: cam roullier RP: 15343 Rank: 1561 Console: xbl Banned: true
+Name: zochronic RP: 15342 Rank: 1562 Console: xbl Banned: false
+Name: hurttz2much RP: 15342 Rank: 1562 Console: xbl Banned: false
+Name: ttv slumpedgod RP: 15341 Rank: 1564 Console: xbl Banned: false
+Name: sanzokwkda RP: 15337 Rank: 1565 Console: xbl Banned: false
+Name: travismeal t RP: 15337 Rank: 1565 Console: xbl Banned: false
+Name: needle userr RP: 15336 Rank: 1567 Console: xbl Banned: false
+Name: xm9u RP: 15334 Rank: 1568 Console: xbl Banned: true
+Name: chr1s frags RP: 15333 Rank: 1569 Console: xbl Banned: false
+Name: marg0trobbi3 RP: 15333 Rank: 1569 Console: xbl Banned: false
+Name: jaackkl RP: 15333 Rank: 1569 Console: xbl Banned: false
+Name: otiquh RP: 15332 Rank: 1572 Console: xbl Banned: false
+Name: luciidpotato RP: 15332 Rank: 1572 Console: xbl Banned: true
+Name: llsway ext RP: 15328 Rank: 1574 Console: xbl Banned: false
+Name: truplayboy187 RP: 15326 Rank: 1575 Console: xbl Banned: true
+Name: torz vesu RP: 15324 Rank: 1576 Console: xbl Banned: false
+Name: xi evilduck ix RP: 15322 Rank: 1577 Console: xbl Banned: false
+Name: bmansxld RP: 15321 Rank: 1578 Console: xbl Banned: false
+Name: fearswag5213 RP: 15319 Rank: 1579 Console: xbl Banned: true
+Name: fannccy RP: 15319 Rank: 1579 Console: xbl Banned: false
+Name: disturbingjello RP: 15318 Rank: 1581 Console: xbl Banned: false
+Name: insanity x8227 RP: 15317 Rank: 1582 Console: xbl Banned: false
+Name: czt burghard RP: 15317 Rank: 1582 Console: xbl Banned: false
+Name: vicious bl RP: 15317 Rank: 1582 Console: xbl Banned: false
+Name: briangoon RP: 15317 Rank: 1582 Console: xbl Banned: false
+Name: zaylub RP: 15316 Rank: 1586 Console: xbl Banned: false
+Name: il new t li RP: 15316 Rank: 1586 Console: xbl Banned: true
+Name: mckeran RP: 15314 Rank: 1588 Console: xbl Banned: false
+Name: thedestroy09 RP: 15311 Rank: 1589 Console: xbl Banned: true
+Name: karasu726 RP: 15310 Rank: 1590 Console: xbl Banned: true
+Name: freddy2finga RP: 15310 Rank: 1590 Console: xbl Banned: false
+Name: ll vo1d RP: 15310 Rank: 1590 Console: xbl Banned: false
+Name: jackjackjac RP: 15309 Rank: 1593 Console: xbl Banned: false
+Name: xboxpredisfake RP: 15308 Rank: 1594 Console: xbl Banned: true
+Name: know reaiity RP: 15306 Rank: 1595 Console: xbl Banned: true
+Name: the deleter105 RP: 15306 Rank: 1595 Console: xbl Banned: true
+Name: thunder frtv RP: 15305 Rank: 1597 Console: xbl Banned: false
+Name: titanupdh22 RP: 15304 Rank: 1598 Console: xbl Banned: false
+Name: domthenurse RP: 15303 Rank: 1599 Console: xbl Banned: false
+Name: sanemisrage RP: 15300 Rank: 1600 Console: xbl Banned: false
+Name: ugibranoway RP: 15300 Rank: 1601 Console: xbl Banned: false
+Name: yosoylegendary RP: 15299 Rank: 1602 Console: xbl Banned: false
+Name: nfz sammy RP: 15299 Rank: 1602 Console: xbl Banned: false
+Name: lookatmy4k20 RP: 15298 Rank: 1604 Console: xbl Banned: false
+Name: tokoyakii RP: 15295 Rank: 1605 Console: xbl Banned: false
+Name: rsilenxce RP: 15295 Rank: 1605 Console: xbl Banned: false
+Name: quaiitest RP: 15295 Rank: 1605 Console: xbl Banned: false
+Name: yartsa RP: 15294 Rank: 1608 Console: xbl Banned: false
+Name: fujihgang RP: 15294 Rank: 1608 Console: xbl Banned: false
+Name: llonadderall RP: 15294 Rank: 1608 Console: xbl Banned: true
+Name: czxrnecki RP: 15293 Rank: 1611 Console: xbl Banned: false
+Name: trusst v RP: 15292 Rank: 1612 Console: xbl Banned: false
+Name: xcryptana RP: 15290 Rank: 1613 Console: xbl Banned: false
+Name: zematron kox RP: 15288 Rank: 1614 Console: xbl Banned: false
+Name: weezy shotta RP: 15288 Rank: 1614 Console: xbl Banned: false
+Name: chace bankk RP: 15287 Rank: 1616 Console: xbl Banned: true
+Name: xd mcflurry2 RP: 15287 Rank: 1616 Console: xbl Banned: true
+Name: danny apes RP: 15287 Rank: 1616 Console: xbl Banned: false
+Name: sirdingler RP: 15287 Rank: 1616 Console: xbl Banned: false
+Name: ag lexu RP: 15285 Rank: 1620 Console: xbl Banned: true
+Name: ill intrusion RP: 15285 Rank: 1620 Console: xbl Banned: false
+Name: missssed RP: 15284 Rank: 1622 Console: xbl Banned: false
+Name: lukey sweets RP: 15284 Rank: 1622 Console: xbl Banned: false
+Name: ananh x RP: 15283 Rank: 1624 Console: xbl Banned: false
+Name: maniatic1461 RP: 15282 Rank: 1625 Console: xbl Banned: false
+Name: zxqi sz RP: 15281 Rank: 1626 Console: xbl Banned: false
+Name: engiand RP: 15280 Rank: 1627 Console: xbl Banned: false
+Name: seitoi RP: 15278 Rank: 1628 Console: xbl Banned: false
+Name: parkrlew RP: 15277 Rank: 1629 Console: xbl Banned: false
+Name: hga gingy RP: 15277 Rank: 1629 Console: xbl Banned: false
+Name: p r l s m 4 RP: 15277 Rank: 1629 Console: xbl Banned: false
+Name: cry about rp RP: 15276 Rank: 1632 Console: xbl Banned: true
+Name: itzshamefull RP: 15275 Rank: 1633 Console: xbl Banned: false
+Name: navys30 RP: 15273 Rank: 1634 Console: xbl Banned: false
+Name: pittymcfly RP: 15273 Rank: 1634 Console: xbl Banned: false
+Name: xoarestv RP: 15273 Rank: 1634 Console: xbl Banned: false
+Name: uitimatekiii RP: 15272 Rank: 1637 Console: xbl Banned: false
+Name: ukhoziawodihaya RP: 15272 Rank: 1637 Console: xbl Banned: false
+Name: fullfil RP: 15267 Rank: 1639 Console: xbl Banned: false
+Name: overfali RP: 15264 Rank: 1640 Console: xbl Banned: false
+Name: mini leischner RP: 15264 Rank: 1640 Console: xbl Banned: false
+Name: twf blood RP: 15262 Rank: 1642 Console: xbl Banned: false
+Name: misconfess RP: 15262 Rank: 1642 Console: xbl Banned: false
+Name: devilmiku4540 RP: 15261 Rank: 1644 Console: xbl Banned: false
+Name: bluecrossfirexd RP: 15260 Rank: 1645 Console: xbl Banned: false
+Name: zahnify RP: 15259 Rank: 1646 Console: xbl Banned: false
+Name: bulldogaviator RP: 15259 Rank: 1646 Console: xbl Banned: false
+Name: hack2slay RP: 15259 Rank: 1646 Console: xbl Banned: false
+Name: xtra crazii RP: 15256 Rank: 1649 Console: xbl Banned: true
+Name: thy doubt RP: 15256 Rank: 1649 Console: xbl Banned: false
+Name: ej ven0m RP: 15255 Rank: 1651 Console: xbl Banned: false
+Name: ovq RP: 15255 Rank: 1651 Console: xbl Banned: false
+Name: xamula RP: 15255 Rank: 1651 Console: xbl Banned: false
+Name: fallingb3ast RP: 15253 Rank: 1654 Console: xbl Banned: false
+Name: dummyvoid RP: 15252 Rank: 1655 Console: xbl Banned: false
+Name: mihxed RP: 15251 Rank: 1656 Console: xbl Banned: false
+Name: rig0theboss187 RP: 15251 Rank: 1656 Console: xbl Banned: false
+Name: flexxzo RP: 15251 Rank: 1656 Console: xbl Banned: false
+Name: chrisccold RP: 15250 Rank: 1659 Console: xbl Banned: false
+Name: i centauri i RP: 15250 Rank: 1659 Console: xbl Banned: true
+Name: torgzz RP: 15248 Rank: 1661 Console: xbl Banned: false
+Name: zillazelda1024 RP: 15248 Rank: 1661 Console: xbl Banned: false
+Name: xsacri ttv RP: 15247 Rank: 1663 Console: xbl Banned: false
+Name: battlecat312 RP: 15246 Rank: 1664 Console: xbl Banned: false
+Name: cm0nsterc RP: 15245 Rank: 1665 Console: xbl Banned: false
+Name: ll im pug ll RP: 15245 Rank: 1665 Console: xbl Banned: false
+Name: anttwuan RP: 15244 Rank: 1667 Console: xbl Banned: false
+Name: im5ivefoot4 RP: 15243 Rank: 1668 Console: xbl Banned: false
+Name: duhleeted RP: 15243 Rank: 1668 Console: xbl Banned: false
+Name: lcurxy RP: 15241 Rank: 1670 Console: xbl Banned: false
+Name: nk flip RP: 15241 Rank: 1670 Console: xbl Banned: false
+Name: zenthity RP: 15239 Rank: 1672 Console: xbl Banned: false
+Name: celesite RP: 15239 Rank: 1672 Console: xbl Banned: false
+Name: apoclipz RP: 15238 Rank: 1674 Console: xbl Banned: false
+Name: ogl4ndo RP: 15238 Rank: 1674 Console: xbl Banned: false
+Name: zap n zoom RP: 15237 Rank: 1676 Console: xbl Banned: false
+Name: rxger tht RP: 15236 Rank: 1677 Console: xbl Banned: false
+Name: ocvul RP: 15235 Rank: 1678 Console: xbl Banned: false
+Name: ayteez RP: 15235 Rank: 1678 Console: xbl Banned: false
+Name: xxturtlekingz RP: 15235 Rank: 1678 Console: xbl Banned: false
+Name: fxu4z RP: 15234 Rank: 1681 Console: xbl Banned: false
+Name: liquid nitr0329 RP: 15234 Rank: 1681 Console: xbl Banned: false
+Name: jsteehz RP: 15234 Rank: 1681 Console: xbl Banned: false
+Name: ispartan119 RP: 15234 Rank: 1681 Console: xbl Banned: false
+Name: haruto3467 RP: 15233 Rank: 1685 Console: xbl Banned: true
+Name: banner grab RP: 15232 Rank: 1686 Console: xbl Banned: false
+Name: dkd nitro RP: 15232 Rank: 1686 Console: xbl Banned: false
+Name: skinnierfrog856 RP: 15230 Rank: 1688 Console: xbl Banned: false
+Name: dougystyle1 RP: 15230 Rank: 1688 Console: xbl Banned: true
+Name: nbn islothtv RP: 15230 Rank: 1688 Console: xbl Banned: true
+Name: thelastxword RP: 15229 Rank: 1691 Console: xbl Banned: false
+Name: souitz RP: 15228 Rank: 1692 Console: xbl Banned: false
+Name: dualtube19 RP: 15228 Rank: 1692 Console: xbl Banned: false
+Name: tsm lpn22hal RP: 15228 Rank: 1692 Console: xbl Banned: false
+Name: missvw06 RP: 15226 Rank: 1695 Console: xbl Banned: false
+Name: poeticjusticeq RP: 15226 Rank: 1695 Console: xbl Banned: false
+Name: awesomegamer531 RP: 15222 Rank: 1697 Console: xbl Banned: false
+Name: hxrizonq dad RP: 15221 Rank: 1698 Console: xbl Banned: false
+Name: vxtta RP: 15220 Rank: 1699 Console: xbl Banned: true
+Name: holycyan RP: 15218 Rank: 1700 Console: xbl Banned: false
+Name: lil toehairs RP: 15216 Rank: 1701 Console: xbl Banned: false
+Name: xaxilx RP: 15216 Rank: 1701 Console: xbl Banned: false
+Name: nativemambafb RP: 15215 Rank: 1703 Console: xbl Banned: false
+Name: lilb fdt RP: 15215 Rank: 1703 Console: xbl Banned: false
+Name: rolling u up RP: 15213 Rank: 1705 Console: xbl Banned: false
+Name: tohkaa x RP: 15213 Rank: 1705 Console: xbl Banned: false
+Name: diux RP: 15213 Rank: 1705 Console: xbl Banned: false
+Name: lu x luis04 RP: 15213 Rank: 1705 Console: xbl Banned: false
+Name: aboveavrge RP: 15212 Rank: 1709 Console: xbl Banned: false
+Name: ult9899 RP: 15212 Rank: 1709 Console: xbl Banned: false
+Name: king rattler1 RP: 15211 Rank: 1711 Console: xbl Banned: false
+Name: loki sh4d0w RP: 15209 Rank: 1712 Console: xbl Banned: false
+Name: jdr RP: 15209 Rank: 1712 Console: xbl Banned: false
+Name: rooskimishka RP: 15208 Rank: 1714 Console: xbl Banned: false
+Name: rust pt1 RP: 15208 Rank: 1714 Console: xbl Banned: false
+Name: jakeypoo3457 RP: 15208 Rank: 1714 Console: xbl Banned: false
+Name: pr g sparrow RP: 15208 Rank: 1714 Console: xbl Banned: false
+Name: selfless acts RP: 15208 Rank: 1714 Console: xbl Banned: false
+Name: papa splix RP: 15208 Rank: 1714 Console: xbl Banned: false
+Name: xirfq RP: 15207 Rank: 1720 Console: xbl Banned: true
+Name: dvo kooki RP: 15206 Rank: 1721 Console: xbl Banned: false
+Name: u need a dr RP: 15206 Rank: 1721 Console: xbl Banned: false
+Name: giajjenobazooka RP: 15206 Rank: 1721 Console: xbl Banned: false
+Name: uproblema RP: 15205 Rank: 1724 Console: xbl Banned: false
+Name: ww ixside RP: 15205 Rank: 1724 Console: xbl Banned: false
+Name: o clipz g RP: 15205 Rank: 1724 Console: xbl Banned: false
+Name: xgearzy RP: 15204 Rank: 1727 Console: xbl Banned: false
+Name: so tearz RP: 15204 Rank: 1727 Console: xbl Banned: false
+Name: krewmate RP: 15202 Rank: 1729 Console: xbl Banned: false
+Name: xt4 destiny RP: 15201 Rank: 1730 Console: xbl Banned: false
+Name: nikki bounty RP: 15200 Rank: 1731 Console: xbl Banned: false
+Name: slice gang RP: 15200 Rank: 1731 Console: xbl Banned: false
+Name: xdeciphles RP: 15200 Rank: 1731 Console: xbl Banned: false
+Name: kaztel RP: 15198 Rank: 1734 Console: xbl Banned: false
+Name: kahmnakno RP: 15198 Rank: 1734 Console: xbl Banned: false
+Name: i eat pie 21 RP: 15197 Rank: 1736 Console: xbl Banned: false
+Name: n1d mrbig2 RP: 15196 Rank: 1737 Console: xbl Banned: true
+Name: goofballgull387 RP: 15196 Rank: 1737 Console: xbl Banned: false
+Name: x shoxy x RP: 15196 Rank: 1737 Console: xbl Banned: false
+Name: da bad banana RP: 15195 Rank: 1740 Console: xbl Banned: false
+Name: toxic purple RP: 15194 Rank: 1741 Console: xbl Banned: false
+Name: prem nero RP: 15193 Rank: 1742 Console: xbl Banned: false
+Name: markdb 26 RP: 15192 Rank: 1743 Console: xbl Banned: false
+Name: qualisipper RP: 15191 Rank: 1744 Console: xbl Banned: false
+Name: ikunigami RP: 15191 Rank: 1744 Console: xbl Banned: false
+Name: gspoken RP: 15191 Rank: 1744 Console: xbl Banned: false
+Name: tusld RP: 15190 Rank: 1747 Console: xbl Banned: false
+Name: thunderdragn585 RP: 15187 Rank: 1748 Console: xbl Banned: false
+Name: ds iann RP: 15187 Rank: 1748 Console: xbl Banned: false
+Name: tmtoxicacid9 RP: 15187 Rank: 1748 Console: xbl Banned: false
+Name: blindhashtag RP: 15187 Rank: 1748 Console: xbl Banned: false
+Name: toveriwildu RP: 15187 Rank: 1748 Console: xbl Banned: false
+Name: dddidle RP: 15185 Rank: 1753 Console: xbl Banned: false
+Name: kris tokyo RP: 15183 Rank: 1754 Console: xbl Banned: false
+Name: summer sundays RP: 15182 Rank: 1755 Console: xbl Banned: false
+Name: afclyle RP: 15181 Rank: 1756 Console: xbl Banned: false
+Name: staytweakinq RP: 15181 Rank: 1756 Console: xbl Banned: false
+Name: xraidzs RP: 15180 Rank: 1758 Console: xbl Banned: false
+Name: andrebatt252109 RP: 15178 Rank: 1759 Console: xbl Banned: false
+Name: fayiure RP: 15177 Rank: 1760 Console: xbl Banned: false
+Name: ger chilaquil10 RP: 15177 Rank: 1760 Console: xbl Banned: false
+Name: prolics RP: 15177 Rank: 1760 Console: xbl Banned: true
+Name: lawsuhn RP: 15176 Rank: 1763 Console: xbl Banned: false
+Name: austinpalone RP: 15176 Rank: 1763 Console: xbl Banned: false
+Name: el chapin69 RP: 15175 Rank: 1765 Console: xbl Banned: false
+Name: chelseachick89 RP: 15174 Rank: 1766 Console: xbl Banned: false
+Name: acidtor RP: 15174 Rank: 1766 Console: xbl Banned: false
+Name: flynnith ao RP: 15173 Rank: 1768 Console: xbl Banned: false
+Name: sliqcplaya RP: 15173 Rank: 1768 Console: xbl Banned: false
+Name: sultanslays RP: 15173 Rank: 1768 Console: xbl Banned: false
+Name: oneclipz tv RP: 15172 Rank: 1771 Console: xbl Banned: false
+Name: uneverevensawme RP: 15172 Rank: 1771 Console: xbl Banned: false
+Name: grubbygiant325 RP: 15171 Rank: 1773 Console: xbl Banned: false
+Name: sarahlabaka RP: 15170 Rank: 1774 Console: xbl Banned: false
+Name: citrinejungle86 RP: 15169 Rank: 1775 Console: xbl Banned: false
+Name: turminawtv RP: 15169 Rank: 1775 Console: xbl Banned: false
+Name: goodwoodgip RP: 15168 Rank: 1777 Console: xbl Banned: false
+Name: undone sway RP: 15168 Rank: 1777 Console: xbl Banned: false
+Name: talizer RP: 15167 Rank: 1779 Console: xbl Banned: false
+Name: glioblastom RP: 15167 Rank: 1779 Console: xbl Banned: false
+Name: htxpandacx RP: 15166 Rank: 1781 Console: xbl Banned: false
+Name: modestpuma59309 RP: 15166 Rank: 1781 Console: xbl Banned: true
+Name: xgravy boatx RP: 15166 Rank: 1781 Console: xbl Banned: false
+Name: eithersneeze777 RP: 15165 Rank: 1784 Console: xbl Banned: false
+Name: mr imsavage RP: 15165 Rank: 1784 Console: xbl Banned: false
+Name: igotlowhp RP: 15165 Rank: 1784 Console: xbl Banned: false
+Name: rx5u RP: 15165 Rank: 1784 Console: xbl Banned: true
+Name: wajjit RP: 15165 Rank: 1784 Console: xbl Banned: false
+Name: openthanooor947 RP: 15164 Rank: 1789 Console: xbl Banned: false
+Name: mataviejas79828 RP: 15164 Rank: 1789 Console: xbl Banned: true
+Name: shiestyfanta RP: 15164 Rank: 1789 Console: xbl Banned: false
+Name: gloiz RP: 15163 Rank: 1792 Console: xbl Banned: false
+Name: xoartemistv RP: 15162 Rank: 1793 Console: xbl Banned: false
+Name: romanbroom93164 RP: 15162 Rank: 1793 Console: xbl Banned: false
+Name: kvg RP: 15162 Rank: 1793 Console: xbl Banned: false
+Name: droughtzy RP: 15161 Rank: 1796 Console: xbl Banned: false
+Name: rof grim RP: 15160 Rank: 1797 Console: xbl Banned: false
+Name: m4ydayy RP: 15160 Rank: 1797 Console: xbl Banned: false
+Name: projectted RP: 15160 Rank: 1797 Console: xbl Banned: false
+Name: uno1base RP: 15160 Rank: 1797 Console: xbl Banned: false
+Name: muggsyxbl RP: 15160 Rank: 1801 Console: xbl Banned: false
+Name: uno1base RP: 15160 Rank: 1801 Console: xbl Banned: false
+Name: projectted RP: 15160 Rank: 1801 Console: xbl Banned: false
+Name: m4ydayy RP: 15160 Rank: 1801 Console: xbl Banned: false
+Name: copenhagenrush RP: 15159 Rank: 1805 Console: xbl Banned: false
+Name: loucozade RP: 15159 Rank: 1805 Console: xbl Banned: false
+Name: landsharkgirl03 RP: 15157 Rank: 1807 Console: xbl Banned: false
+Name: by luscia RP: 15154 Rank: 1808 Console: xbl Banned: false
+Name: emperor dax RP: 15154 Rank: 1808 Console: xbl Banned: false
+Name: axelcas01 RP: 15153 Rank: 1810 Console: xbl Banned: true
+Name: l9sy RP: 15153 Rank: 1810 Console: xbl Banned: false
+Name: lladrnll RP: 15153 Rank: 1810 Console: xbl Banned: false
+Name: blue pump only RP: 15151 Rank: 1813 Console: xbl Banned: false
+Name: sqrewed RP: 15151 Rank: 1813 Console: xbl Banned: false
+Name: shadowmare45 RP: 15148 Rank: 1815 Console: xbl Banned: false
+Name: princet10 RP: 15148 Rank: 1815 Console: xbl Banned: true
+Name: omar flags RP: 15148 Rank: 1815 Console: xbl Banned: true
+Name: rpg nerdneck RP: 15148 Rank: 1815 Console: xbl Banned: false
+Name: razor121212 RP: 15147 Rank: 1819 Console: xbl Banned: false
+Name: surnl RP: 15147 Rank: 1819 Console: xbl Banned: false
+Name: nxz lazer RP: 15147 Rank: 1819 Console: xbl Banned: true
+Name: elite pkz RP: 15147 Rank: 1819 Console: xbl Banned: false
+Name: rvadil RP: 15146 Rank: 1823 Console: xbl Banned: false
+Name: backstep RP: 15146 Rank: 1823 Console: xbl Banned: false
+Name: wizzy godly RP: 15146 Rank: 1823 Console: xbl Banned: false
+Name: estarossa2184 RP: 15146 Rank: 1823 Console: xbl Banned: false
+Name: obeyyspec0ps RP: 15146 Rank: 1823 Console: xbl Banned: true
+Name: pingmyflaty RP: 15146 Rank: 1823 Console: xbl Banned: false
+Name: kestons dad RP: 15146 Rank: 1823 Console: xbl Banned: false
+Name: jesus 1v RP: 15146 Rank: 1823 Console: xbl Banned: false
+Name: serving that RP: 15145 Rank: 1831 Console: xbl Banned: false
+Name: daluckyone77 RP: 15144 Rank: 1832 Console: xbl Banned: false
+Name: ukivo2150 RP: 15144 Rank: 1832 Console: xbl Banned: false
+Name: rectlf i RP: 15144 Rank: 1832 Console: xbl Banned: false
+Name: aim asst RP: 15143 Rank: 1835 Console: xbl Banned: false
+Name: amandaziika RP: 15142 Rank: 1836 Console: xbl Banned: false
+Name: srnutriales1692 RP: 15142 Rank: 1836 Console: xbl Banned: false
+Name: qoa RP: 15142 Rank: 1836 Console: xbl Banned: false
+Name: ex wano RP: 15142 Rank: 1836 Console: xbl Banned: false
+Name: mizery lv RP: 15141 Rank: 1840 Console: xbl Banned: false
+Name: unholy blud RP: 15140 Rank: 1841 Console: xbl Banned: false
+Name: vital nemesis RP: 15140 Rank: 1841 Console: xbl Banned: false
+Name: itzdreamztv RP: 15140 Rank: 1841 Console: xbl Banned: false
+Name: jeermh RP: 15140 Rank: 1841 Console: xbl Banned: false
+Name: blaironmars RP: 15139 Rank: 1845 Console: xbl Banned: false
+Name: win like kobe RP: 15139 Rank: 1845 Console: xbl Banned: false
+Name: apx slayerrr RP: 15139 Rank: 1845 Console: xbl Banned: false
+Name: zxmrdr0psh0tzxz RP: 15138 Rank: 1848 Console: xbl Banned: false
+Name: vengencetv RP: 15138 Rank: 1848 Console: xbl Banned: false
+Name: ux chunkk RP: 15137 Rank: 1850 Console: xbl Banned: true
+Name: frisky furb RP: 15137 Rank: 1850 Console: xbl Banned: false
+Name: ttv schmeat RP: 15137 Rank: 1850 Console: xbl Banned: false
+Name: coduy RP: 15137 Rank: 1850 Console: xbl Banned: false
+Name: crazzles RP: 15137 Rank: 1850 Console: xbl Banned: false
+Name: monzter ey RP: 15136 Rank: 1855 Console: xbl Banned: false
+Name: xswalk3r RP: 15136 Rank: 1855 Console: xbl Banned: false
+Name: aegis mixage RP: 15135 Rank: 1857 Console: xbl Banned: false
+Name: soadyj RP: 15135 Rank: 1857 Console: xbl Banned: false
+Name: vice xena RP: 15134 Rank: 1859 Console: xbl Banned: false
+Name: kaysoke RP: 15134 Rank: 1859 Console: xbl Banned: false
+Name: jaytee rel RP: 15133 Rank: 1861 Console: xbl Banned: false
+Name: pgoat22 RP: 15133 Rank: 1861 Console: xbl Banned: false
+Name: gg argan RP: 15132 Rank: 1863 Console: xbl Banned: true
+Name: nastybo13 RP: 15132 Rank: 1863 Console: xbl Banned: false
+Name: g3ttcl4pp3d RP: 15132 Rank: 1863 Console: xbl Banned: true
+Name: pistolero364 RP: 15132 Rank: 1863 Console: xbl Banned: false
+Name: burr go booom RP: 15132 Rank: 1863 Console: xbl Banned: false
+Name: jizee RP: 15131 Rank: 1868 Console: xbl Banned: false
+Name: sf raid RP: 15131 Rank: 1868 Console: xbl Banned: false
+Name: grvntmaster RP: 15131 Rank: 1868 Console: xbl Banned: false
+Name: j5ie RP: 15129 Rank: 1871 Console: xbl Banned: false
+Name: thereddoris RP: 15129 Rank: 1871 Console: xbl Banned: false
+Name: xinzio RP: 15128 Rank: 1873 Console: xbl Banned: false
+Name: otnie RP: 15128 Rank: 1873 Console: xbl Banned: false
+Name: sinaigeri07 RP: 15126 Rank: 1875 Console: xbl Banned: false
+Name: sillystream8876 RP: 15126 Rank: 1875 Console: xbl Banned: false
+Name: appapasstheclip RP: 15126 Rank: 1875 Console: xbl Banned: false
+Name: bzkyy RP: 15126 Rank: 1875 Console: xbl Banned: false
+Name: shen8iveo tt RP: 15125 Rank: 1879 Console: xbl Banned: false
+Name: illilhlilli RP: 15125 Rank: 1879 Console: xbl Banned: false
+Name: rilluo RP: 15125 Rank: 1879 Console: xbl Banned: false
+Name: schmiglies RP: 15125 Rank: 1879 Console: xbl Banned: false
+Name: eby253 on tt RP: 15125 Rank: 1879 Console: xbl Banned: false
+Name: an enraged pig RP: 15125 Rank: 1879 Console: xbl Banned: false
+Name: manicakira RP: 15124 Rank: 1885 Console: xbl Banned: false
+Name: therealj5671 RP: 15124 Rank: 1885 Console: xbl Banned: false
+Name: couldabeenld RP: 15124 Rank: 1885 Console: xbl Banned: false
+Name: kmriii RP: 15123 Rank: 1888 Console: xbl Banned: false
+Name: hopeless1367 RP: 15123 Rank: 1888 Console: xbl Banned: true
+Name: atkelo RP: 15123 Rank: 1888 Console: xbl Banned: false
+Name: hamukatudao RP: 15122 Rank: 1891 Console: xbl Banned: false
+Name: oskov7562 RP: 15122 Rank: 1891 Console: xbl Banned: false
+Name: lnfxrnai RP: 15122 Rank: 1891 Console: xbl Banned: false
+Name: gunshiped RP: 15121 Rank: 1894 Console: xbl Banned: false
+Name: spartanpunck RP: 15121 Rank: 1894 Console: xbl Banned: true
+Name: fsl RP: 15121 Rank: 1894 Console: xbl Banned: false
+Name: robertxshadows RP: 15121 Rank: 1894 Console: xbl Banned: false
+Name: mxgiovani RP: 15120 Rank: 1898 Console: xbl Banned: false
+Name: suurvive RP: 15120 Rank: 1898 Console: xbl Banned: false
+Name: sydest RP: 15119 Rank: 1900 Console: xbl Banned: false
+Name: sydest RP: 15119 Rank: 1901 Console: xbl Banned: false
+Name: fall prophet RP: 15119 Rank: 1901 Console: xbl Banned: false
+Name: jonamooau RP: 15118 Rank: 1903 Console: xbl Banned: false
+Name: zingstep RP: 15118 Rank: 1903 Console: xbl Banned: false
+Name: lmg x kaos RP: 15118 Rank: 1903 Console: xbl Banned: false
+Name: s178826 RP: 15117 Rank: 1906 Console: xbl Banned: false
+Name: lmoonshine RP: 15117 Rank: 1906 Console: xbl Banned: false
+Name: i eat ink RP: 15116 Rank: 1908 Console: xbl Banned: false
+Name: daflappyjack RP: 15116 Rank: 1908 Console: xbl Banned: false
+Name: fuzotl RP: 15116 Rank: 1908 Console: xbl Banned: false
+Name: travismini RP: 15115 Rank: 1911 Console: xbl Banned: false
+Name: rdxfamln RP: 15114 Rank: 1912 Console: xbl Banned: false
+Name: kopache RP: 15114 Rank: 1912 Console: xbl Banned: false
+Name: icahm RP: 15114 Rank: 1912 Console: xbl Banned: false
+Name: twitch xilty RP: 15114 Rank: 1912 Console: xbl Banned: true
+Name: jaguar3001 RP: 15113 Rank: 1916 Console: xbl Banned: false
+Name: mokkori55 RP: 15113 Rank: 1916 Console: xbl Banned: false
+Name: ouch troy RP: 15113 Rank: 1916 Console: xbl Banned: false
+Name: exgreenranger RP: 15112 Rank: 1919 Console: xbl Banned: false
+Name: dr grimeyy RP: 15112 Rank: 1919 Console: xbl Banned: false
+Name: kingey8653 RP: 15111 Rank: 1921 Console: xbl Banned: false
+Name: t7orture RP: 15110 Rank: 1922 Console: xbl Banned: false
+Name: iambiackhammer RP: 15110 Rank: 1922 Console: xbl Banned: false
+Name: killer5130 RP: 15110 Rank: 1922 Console: xbl Banned: false
+Name: macabbages RP: 15110 Rank: 1922 Console: xbl Banned: false
+Name: pi25ku25min RP: 15110 Rank: 1922 Console: xbl Banned: false
+Name: aks ghost RP: 15110 Rank: 1922 Console: xbl Banned: false
+Name: inhale loba RP: 15110 Rank: 1922 Console: xbl Banned: false
+Name: kingmooshoom RP: 15110 Rank: 1922 Console: xbl Banned: false
+Name: hbaccam RP: 15109 Rank: 1930 Console: xbl Banned: false
+Name: grind gaming fb RP: 15109 Rank: 1930 Console: xbl Banned: false
+Name: vvss riim RP: 15109 Rank: 1930 Console: xbl Banned: false
+Name: oblyen RP: 15109 Rank: 1930 Console: xbl Banned: false
+Name: v9 sneakfps RP: 15108 Rank: 1934 Console: xbl Banned: false
+Name: im not dinero RP: 15108 Rank: 1934 Console: xbl Banned: false
+Name: coy14 RP: 15108 Rank: 1934 Console: xbl Banned: false
+Name: zayunomeeh RP: 15107 Rank: 1937 Console: xbl Banned: false
+Name: otm carlilog RP: 15107 Rank: 1937 Console: xbl Banned: false
+Name: og griizzy RP: 15107 Rank: 1937 Console: xbl Banned: false
+Name: jeune ivrogne RP: 15106 Rank: 1940 Console: xbl Banned: false
+Name: bs kelevra RP: 15106 Rank: 1940 Console: xbl Banned: false
+Name: peachiimist RP: 15105 Rank: 1942 Console: xbl Banned: false
+Name: asian boi RP: 15105 Rank: 1942 Console: xbl Banned: false
+Name: zimbty RP: 15105 Rank: 1942 Console: xbl Banned: false
+Name: barbielov RP: 15105 Rank: 1942 Console: xbl Banned: false
+Name: nahfty RP: 15104 Rank: 1946 Console: xbl Banned: false
+Name: unruly alpha RP: 15104 Rank: 1946 Console: xbl Banned: false
+Name: zogamingfb RP: 15104 Rank: 1946 Console: xbl Banned: false
+Name: shadowwarsmurf RP: 15104 Rank: 1946 Console: xbl Banned: false
+Name: splehhh RP: 15103 Rank: 1950 Console: xbl Banned: false
+Name: fayyte RP: 15103 Rank: 1950 Console: xbl Banned: false
+Name: porgy x RP: 15103 Rank: 1950 Console: xbl Banned: false
+Name: imnbe RP: 15102 Rank: 1953 Console: xbl Banned: false
+Name: justnotworkin RP: 15102 Rank: 1953 Console: xbl Banned: false
+Name: zfuzzi RP: 15102 Rank: 1953 Console: xbl Banned: false
+Name: daiteorder RP: 15102 Rank: 1953 Console: xbl Banned: false
+Name: andreslayz RP: 15101 Rank: 1957 Console: xbl Banned: false
+Name: darkassassin688 RP: 15101 Rank: 1957 Console: xbl Banned: false
+Name: tygotbands RP: 15100 Rank: 1959 Console: xbl Banned: false
+Name: atv0 RP: 15100 Rank: 1959 Console: xbl Banned: false
+Name: aod relapz RP: 15098 Rank: 1961 Console: xbl Banned: false
+Name: ygbossman421 RP: 15097 Rank: 1962 Console: xbl Banned: false
+Name: space phantoms RP: 15096 Rank: 1963 Console: xbl Banned: false
+Name: zxchyvibes RP: 15096 Rank: 1963 Console: xbl Banned: false
+Name: l 0 b s2726 RP: 15095 Rank: 1965 Console: xbl Banned: false
+Name: tkn sasuke RP: 15093 Rank: 1966 Console: xbl Banned: false
+Name: beetlegreen1523 RP: 15093 Rank: 1966 Console: xbl Banned: true
+Name: kiid warrior RP: 15092 Rank: 1968 Console: xbl Banned: false
+Name: zaggy2552 RP: 15092 Rank: 1968 Console: xbl Banned: false
+Name: xoexr RP: 15084 Rank: 1970 Console: xbl Banned: false
+Name: lightbolbs RP: 15083 Rank: 1971 Console: xbl Banned: false
+Name: vobloss RP: 15082 Rank: 1972 Console: xbl Banned: false
+Name: abusiive v21745 RP: 15082 Rank: 1972 Console: xbl Banned: true
+Name: judasyea RP: 15082 Rank: 1972 Console: xbl Banned: false
+Name: decky5739 RP: 15081 Rank: 1975 Console: xbl Banned: false
+Name: bangazore RP: 15081 Rank: 1975 Console: xbl Banned: false
+Name: fatcrumpet7379 RP: 15080 Rank: 1977 Console: xbl Banned: true
+Name: crya teddy RP: 15079 Rank: 1978 Console: xbl Banned: false
+Name: lildib tv RP: 15076 Rank: 1979 Console: xbl Banned: false
+Name: ttvineedtoptop RP: 15076 Rank: 1979 Console: xbl Banned: false
+Name: hypebeast215700 RP: 15076 Rank: 1979 Console: xbl Banned: false
+Name: jukes RP: 15076 Rank: 1979 Console: xbl Banned: false
+Name: apexxsweat69 RP: 15075 Rank: 1983 Console: xbl Banned: true
+Name: jam5641 RP: 15075 Rank: 1983 Console: xbl Banned: false
+Name: cr slayz x RP: 15074 Rank: 1985 Console: xbl Banned: false
+Name: notmytoesman RP: 15074 Rank: 1985 Console: xbl Banned: false
+Name: prixm bt RP: 15071 Rank: 1987 Console: xbl Banned: true
+Name: economnomnomic5 RP: 15069 Rank: 1988 Console: xbl Banned: false
+Name: karlsection RP: 15068 Rank: 1989 Console: xbl Banned: false
+Name: abuzzalxs RP: 15067 Rank: 1990 Console: xbl Banned: false
+Name: lil crawz RP: 15066 Rank: 1991 Console: xbl Banned: false
+Name: p1xeis RP: 15066 Rank: 1991 Console: xbl Banned: false
+Name: xnectardripx RP: 15066 Rank: 1991 Console: xbl Banned: false
+Name: dontblink16 RP: 15065 Rank: 1994 Console: xbl Banned: false
+Name: spraag RP: 15065 Rank: 1994 Console: xbl Banned: false
+Name: horizon cute RP: 15063 Rank: 1996 Console: xbl Banned: false
+Name: fear wattsan RP: 15062 Rank: 1997 Console: xbl Banned: false
+Name: eptic x ice RP: 15061 Rank: 1998 Console: xbl Banned: false
+Name: shea211 RP: 15061 Rank: 1998 Console: xbl Banned: false
+Name: alpha arceus RP: 15060 Rank: 2000 Console: xbl Banned: false
+Name: mr juan clip RP: 15059 Rank: 2001 Console: xbl Banned: true
+Name: sirdropone RP: 15059 Rank: 2001 Console: xbl Banned: false
+Name: xmobber RP: 15059 Rank: 2001 Console: xbl Banned: false
+Name: titan of sin RP: 15058 Rank: 2004 Console: xbl Banned: false
+Name: echo cloudzy RP: 15057 Rank: 2005 Console: xbl Banned: true
+Name: m3 panther RP: 15057 Rank: 2005 Console: xbl Banned: false
+Name: zone gabo RP: 15055 Rank: 2007 Console: xbl Banned: false
+Name: aeroplayn RP: 15055 Rank: 2007 Console: xbl Banned: false
+Name: oooh zen RP: 15055 Rank: 2007 Console: xbl Banned: false
+Name: ardt satyrs RP: 15053 Rank: 2010 Console: xbl Banned: false
+Name: cayind RP: 15052 Rank: 2011 Console: xbl Banned: false
+Name: focus tp RP: 15052 Rank: 2011 Console: xbl Banned: false
+Name: cioud956 RP: 15050 Rank: 2013 Console: xbl Banned: false
+Name: skixxzy RP: 15050 Rank: 2013 Console: xbl Banned: false
+Name: faze fryco RP: 15050 Rank: 2013 Console: xbl Banned: false
+Name: l shupe l RP: 15050 Rank: 2013 Console: xbl Banned: false
+Name: explicit4265 RP: 15049 Rank: 2017 Console: xbl Banned: false
+Name: sent it420 RP: 15047 Rank: 2018 Console: xbl Banned: false
+Name: bigmancarda3 RP: 15047 Rank: 2018 Console: xbl Banned: true
+Name: oh ryln RP: 15044 Rank: 2020 Console: xbl Banned: false
+Name: godusopp1225 RP: 15044 Rank: 2020 Console: xbl Banned: false
+Name: pinto0o RP: 15043 Rank: 2022 Console: xbl Banned: false
+Name: xk9p RP: 15042 Rank: 2023 Console: xbl Banned: false
+Name: battlingboat381 RP: 15041 Rank: 2024 Console: xbl Banned: false
+Name: h8rnypotato4 RP: 15040 Rank: 2025 Console: xbl Banned: false
+Name: wif3line RP: 15040 Rank: 2025 Console: xbl Banned: false
+Name: naadestar RP: 15040 Rank: 2025 Console: xbl Banned: false
+Name: soras sin RP: 15037 Rank: 2028 Console: xbl Banned: false
+Name: chuckin meat RP: 15030 Rank: 2029 Console: xbl Banned: false
+Name: rrotsala RP: 15030 Rank: 2029 Console: xbl Banned: false
+Name: ricky bobby3505 RP: 15029 Rank: 2031 Console: xbl Banned: false
+Name: spartan4491 RP: 15028 Rank: 2032 Console: xbl Banned: false
+Name: faints ne RP: 15028 Rank: 2032 Console: xbl Banned: false
+Name: dosbien22 RP: 15028 Rank: 2032 Console: xbl Banned: false
+Name: ii x7 lunar ii RP: 15026 Rank: 2035 Console: xbl Banned: true
+Name: itshyp3zz RP: 15026 Rank: 2035 Console: xbl Banned: false
+Name: leh gwak RP: 15026 Rank: 2035 Console: xbl Banned: false
+Name: o3rdi RP: 15024 Rank: 2038 Console: xbl Banned: false
+Name: mini martoz4502 RP: 15024 Rank: 2038 Console: xbl Banned: true
+Name: zayonleeaan RP: 15024 Rank: 2038 Console: xbl Banned: false
+Name: lqzam RP: 15019 Rank: 2041 Console: xbl Banned: false
+Name: ndglo RP: 15018 Rank: 2042 Console: xbl Banned: false
+Name: pushin path RP: 15018 Rank: 2042 Console: xbl Banned: false
+Name: biiiets RP: 15018 Rank: 2042 Console: xbl Banned: false
+Name: marzamm RP: 15018 Rank: 2042 Console: xbl Banned: false
+Name: fausx RP: 15014 Rank: 2046 Console: xbl Banned: false
+Name: bringmyzen RP: 15014 Rank: 2046 Console: xbl Banned: false
+Name: teardagoat RP: 15013 Rank: 2048 Console: xbl Banned: false
+Name: og a1banian RP: 15013 Rank: 2048 Console: xbl Banned: false
+Name: gullets RP: 15012 Rank: 2050 Console: xbl Banned: false
+Name: mhmyum RP: 15012 Rank: 2050 Console: xbl Banned: false
+Name: oush9215 RP: 15009 Rank: 2052 Console: xbl Banned: true
+Name: bandobusy RP: 15009 Rank: 2052 Console: xbl Banned: false
+Name: knockedhxrd RP: 15007 Rank: 2054 Console: xbl Banned: false
+Name: barnosaur RP: 15006 Rank: 2055 Console: xbl Banned: false
+Name: ag to op RP: 15005 Rank: 2056 Console: xbl Banned: false
+Name: mayelll RP: 15004 Rank: 2057 Console: xbl Banned: false
+Name: xednix RP: 15001 Rank: 2058 Console: xbl Banned: false
+Name: fooshl RP: 15000 Rank: 2059 Console: xbl Banned: true
+Name: luxvccy RP: 15000 Rank: 2059 Console: xbl Banned: true
+Name: il antii li RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: cryptori RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: premium xsky RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: og inkdup RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: rel destoyer RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: jirohs RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: iknifeinbo35320 RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: uuhda RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: hmtj RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: babystrats RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: fujihgang RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: manu4err RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: con5ept RP: 15000 Rank: 2059 Console: xbl Banned: true
+Name: lillylegends RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: edgar846lol RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: ttvslimeboy2569 RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: hdxxblood RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: lm iocked RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: rage terror3410 RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: xakurr RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: kc superstar RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: by pyto RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: viz smacked you RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: horizonz 69 RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: seeyouhorizon RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: floating banana RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: xsaltcreepx RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: iq drexler RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: kruikz RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: kxwezz RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: dinhotheboss366 RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: s3jackqc RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: hopelock5874 RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: msqueenbee4 RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: axe1157 RP: 15000 Rank: 2059 Console: xbl Banned: true
+Name: krutchola RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: ittzspades RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: chico2171 RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: smashedloba RP: 15000 Rank: 2059 Console: xbl Banned: false
+Name: dreamyfps RP: 15000 Rank: 2059 Console: xbl Banned: false
